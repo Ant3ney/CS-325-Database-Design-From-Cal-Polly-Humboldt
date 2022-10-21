@@ -1,0 +1,5 @@
+Sergio Monterroso & Anthony Cavuoti & Nathan Ivers
+CS 325 - Lab 3 - Problem 1
+Painter(PRT_NUM, ptr_lname, ptr_dob, ptr_dod)
+Painting(PAINTING_NUM, painting_title, ptg_year, ptr_num)
+	foreign key (ptr_num) references Painter

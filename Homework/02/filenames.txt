@@ -1,0 +1,4 @@
+10. 325hw2-create.sql : t
+11.  325hw2-pop.sql : e
+12.  325hw2-pop.sql : s
+13. 325hw2-use.sql : u

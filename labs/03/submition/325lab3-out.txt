@@ -1,0 +1,31 @@
+Sergio Monterroso, Nathan Ivers,and Anthony Cavuoti
+CS 325 - Lab 3 - Problem 3: 09-Sep-2022
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+  PART_NUM PART_NAME                 QUANTITY_ON_HAND      PRICE LEV LAST_INSP  
+---------- ------------------------- ---------------- ---------- --- ---------  
+     10603 hexagonal wrench                        13       9.99 XXX 15-AUG-21  
+     10604 tire                                   287      39.99 MMM 09-SEP-22  
+     10605 bubble gum                                     876.54                
+     69420 windshield                               5       2000 WIN 09-SEP-22  
+
+
+ORDER_ CUST_NUM   PART_NUM ORDER_DAT   QUANTITY O D                             
+------ -------- ---------- --------- ---------- - -                             
+111111 11111111      10603 09-SEP-22          3 B U                             
+222222 22222222      10604 01-SEP-20          4 I P                             
+472676 690000        10605 05-JAN-22          4 I P                             
+272475 990000        10603 07-DEC-21          9 I F                             
+307321 004000        69420 08-SEP-22          2 B U                             
+

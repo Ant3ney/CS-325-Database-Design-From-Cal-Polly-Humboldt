@@ -1,0 +1,72 @@
+ANTHONY CAVUOTI LAB 08
+LAB QUERY 01
+
+DEPT_NAME                                                                       
+---------------                                                                 
+Research                                                                        
+Management                                                                      
+
+LAB QUERY 02
+
+EMPL_LAST_NAME                                                                  
+---------------                                                                 
+Turner                                                                          
+Ward                                                                            
+
+LAB QUERY 03
+Enter value for dept_name: Research
+old  13:             DEPT_NAME = &DEPT_NAME
+new  13:             DEPT_NAME = Research
+            DEPT_NAME = Research
+                        *
+ERROR at line 13:
+ORA-00904: "RESEARCH": invalid identifier 
+
+
+LAB QUERY 04
+
+Employee Salaries                                                               
+-----------------------------------------------------------                     
+King - $5000                                                                    
+Jones - $2975                                                                   
+Blake - $2850                                                                   
+Raimi - $2450                                                                   
+Ford - $3000                                                                    
+Smith - $800                                                                    
+Michaels - $1600                                                                
+Ward - $1250                                                                    
+Martin - $1250                                                                  
+Scott - $3000                                                                   
+Turner - $1500                                                                  
+
+Employee Salaries                                                               
+-----------------------------------------------------------                     
+Adams - $1100                                                                   
+James - $950                                                                    
+Miller - $1300                                                                  
+
+14 rows selected.
+
+LAB QUERY 05
+
+EMPL_LAST_NAME                                                                  
+---------------                                                                 
+Raimi                                                                           
+
+LAB QUERY 06
+
+        35                                                                      
+----------                                                                      
+        35                                                                      
+        35                                                                      
+        35                                                                      
+
+LAB QUERY 07
+
+EMPL                                                                            
+----                                                                            
+7499                                                                            
+7654                                                                            
+7788                                                                            
+7902                                                                            
+

@@ -1,0 +1,16 @@
+Sergio Monterroro & Anthony Cavuoti
+CS 325 - Lab 3 - Problem 2
+create table Painter (
+ptr_num char(4),
+ptr_lname varchar2(20),
+ptr_fname varchar2(20),
+ptr_dob date,
+ptr_dod date,
+primary key (ptr_num));
+create table Paintings (
+painting_num char(6),
+painting_title varchar2(30),
+ptg_year char(4),
+ptr_num char(4),
+primary key (painting_num),
+foreign key (ptr_num) references Painter);

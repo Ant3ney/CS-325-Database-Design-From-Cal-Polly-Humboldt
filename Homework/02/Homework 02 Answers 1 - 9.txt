@@ -1,0 +1,9 @@
+﻿1. Number 2. WIth a file system it would be very tedious and time consuming to have to look through 2  different files and compare the two inorder to find the information you're looking for.
+2. Number 3 contains duplicate information if its assumed that there are no two classes that have the same name and time. If this assumption is true then you can assume that the class location is extra information.
+3. 3
+4. 4
+5. 1
+6. 1
+7. 4
+8. 2
+9. 2
