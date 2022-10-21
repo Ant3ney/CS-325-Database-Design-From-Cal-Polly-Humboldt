@@ -1,1 +1,0 @@
-Just to let you know. The book and sylibus fide go in this directory.
