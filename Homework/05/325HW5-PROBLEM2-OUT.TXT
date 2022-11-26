@@ -1,0 +1,95 @@
+HOMEWORK 5 PROBLEM 2
+ANTHONY CAVUOTI
+PROBLEM 2-1
+
+View dropped.
+
+
+View created.
+
+PROBLEM 2-2
+
+CLIENT_LNAME    FAVE_CATEG                                                      
+--------------- ----------                                                      
+Alpha           Comedy                                                          
+Beta            Action                                                          
+Carlos          Drama                                                           
+Delta           Classic                                                         
+Epsilon         Classic                                                         
+Feta            Family                                                          
+Greta           Action                                                          
+Harpo           Comedy                                                          
+
+8 rows selected.
+
+
+FAVE_CATEG CLIENT_LNAME                                                         
+---------- ---------------                                                      
+Action     Greta                                                                
+Action     Beta                                                                 
+Classic    Delta                                                                
+Classic    Epsilon                                                              
+Comedy     Alpha                                                                
+Comedy     Harpo                                                                
+Drama      Carlos                                                               
+Family     Feta                                                                 
+
+8 rows selected.
+
+PROBLEM 2-3
+
+View dropped.
+
+
+View created.
+
+PROBLEM 2-4
+
+CATEGORY_N MOVIE MOVIE_TITLE                                                    
+---------- ----- ----------------------------------------                       
+Action     PG    Indiana Jones and the Temple of Doom                           
+Action     PG    Return of the Jedi                                             
+Action     PG    Star Wars                                                      
+Action     PG    The Empire Strikes Back                                        
+Action     PG    The Phantom Menace                                             
+Action     PG-13 Indiana Jones and the Last Crusade                             
+Action     R     The Matrix                                                     
+Classic    G     All About Eve                                                  
+Classic    G     Gone with the Wind                                             
+Classic    G     It's a Wonderful Life                                          
+Classic    G     The Philadelphia Story                                         
+
+CATEGORY_N MOVIE MOVIE_TITLE                                                    
+---------- ----- ----------------------------------------                       
+Comedy     R     The Blues Brothers                                             
+Drama      A     Clockwork Orange                                               
+Drama      A     Midnight Cowboy                                                
+Drama      R     Fatal Attraction                                               
+Drama      R     One Flew Over the Cuckoo's Nest                                
+Family     G     Babe                                                           
+Family     G     The Muppet Movie                                               
+Family     G     Toy Story                                                      
+Family     G     Toy Story 2                                                    
+
+20 rows selected.
+
+PROBLEM 2-5
+
+CATEGORY_N CATEGORY_QUANT                                                       
+---------- --------------                                                       
+Action                  7                                                       
+Family                  4                                                       
+Classic                 4                                                       
+Drama                   4                                                       
+Comedy                  1                                                       
+
+PROBLEM 2-6
+
+CLIENT_LNAME    CATEGORY_N CLIENT_CREDIT_RTG                                    
+--------------- ---------- -----------------                                    
+Alpha           Comedy                   4.9                                    
+Harpo           Comedy                   3.3                                    
+Greta           Action                   4.4                                    
+Carlos          Drama                    3.8                                    
+Delta           Classic                  3.4                                    
+
