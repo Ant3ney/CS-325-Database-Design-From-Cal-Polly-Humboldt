@@ -562,3 +562,203 @@ INSERT INTO PORTFOLIO VALUES(
     'http://www.webdevportfolio.me/NEwm234',
     'o9cY4b9'
 );
+
+INSERT INTO RESUME VALUES(
+    '42BqoM4',
+    'Harnessing the Power of Web Development',
+    'ashley@gmail.com',
+    '7247507846',
+    '1 South Marvon St. Chino Hills, CA 91709',
+    'https://www.linkedin.com/in/3058387995',
+    'https://twitter.com/MaybeMe2022',
+    'https://github.com/Ant3ney',
+    'fAf845g'
+);
+
+INSERT INTO RESUME VALUES(
+    '58rI5j4',
+    'Creating Quality Websites - Crafting Custom Solutions',
+    'roy@gmail.com',
+    9039334625,
+    '541 High Noon Ave. San Diego, CA 92115',
+    'https://www.linkedin.com/in/098764323',
+    'https://twitter.com/SmilingSmiler',
+    'https://github.com/novuhq',
+    'o9cY4b9'
+);
+
+INSERT INTO RESUME VALUES(
+    'X6hKY74',
+    'Bringing Digital Experiences to Life',
+    'holden@gmail.com',
+    3374090556,
+    '78 Harvard Lane Milpitas, CA 95035',
+    'https://www.linkedin.com/in/908374987',
+    'https://twitter.com/JungleJumper22',
+    'https://github.com/DrummerDude',
+    'Ewm821E'
+);
+
+INSERT INTO RESUME VALUES(
+    'n0T816w',
+    'Transforming Ideas into Reality with Web Development',
+    'hampton@gmail.com',
+    7283713204,
+    '634 Bald Hill Street Wilmington, CA 90744',
+    'https://www.linkedin.com/in/275987456',
+    'https://twitter.com/enigma_quest',
+    'https://github.com/pyhoynmython',
+    '4qE8K9C'
+);
+
+INSERT INTO RESUME VALUES(
+    'b8RL7K2',
+    'Innovating the Future of Web Development',
+    'munoz@gmail.com',
+    4953036636,
+    '750 Sage St. South San Francisco, CA 94080',
+    'https://www.linkedin.com/in/745623984',
+    'https://twitter.com/FunkyFinder24',
+    'tps://github.com/erikzhu1',
+    '4qE8K9C'
+);
+
+INSERT INTO RESUME VALUES(
+    '0Wgr74p',
+    'Delivering Exceptional Web Experiences',
+    'olsen@gmail.com',
+    8743219463,
+    '9475 Bridgeton Drive Westminster, CA 92683',
+    'https://www.linkedin.com/in/098765432',
+    'https://twitter.com/SmartyPants2',
+    'https://github.com/gluo08',
+    '4qE8K9C'
+);
+
+INSERT INTO RESUME VALUES(
+    'zG085SU',
+    'Unlocking the Potential of the Web',
+    'ponce@gmail.com',
+    7497092597,
+    '87 Market Drive Tulare, CA 93274',
+    'https://www.linkedin.com/in/345678901',
+    'https://twitter.com/FoxyLoxy19',
+    'https://github.com/5jsman',
+    '7Meq7g3'
+);
+
+INSERT INTO RESUME VALUES(
+    '1lY66iM',
+    'Bridging the Gap Between Digital and Reality',
+    'fernandez@gmail.com',
+    0844309282,
+    '7551 Fulton Drive Cupertino, CA 95014',
+    'https://www.linkedin.com/in/543219876',
+    'https://twitter.com/SparklePrincess25',
+    'https://github.com/thetacdeveloper',
+    'fAf845g'
+);
+
+INSERT INTO RESUME VALUES(
+    '7B4pk18',
+    'Realizing Dreams with Web Development',
+    'pollard@gmail.com',
+    5755783039,
+    '8870 Pacific Ave. Vacaville, CA 95687',
+    'https://www.linkedin.com/in/767890234',
+    'https://twitter.com/AdventurousOne30',
+    'https://github.com/codelover96',
+    'P0uRG97'
+);
+
+INSERT INTO RESUME VALUES(
+    'WQP20b8',
+    'Unleashing the Possibilities of Web Development',
+    'bennett@gmail.com',
+    8959688192,
+    '42 South Avenue Anaheim, CA 92801',
+    'https://www.linkedin.com/in/098765432',
+    'https://twitter.com/CuriousCat19',
+    'https://github.com/techbuddies',
+    'Qb5570t'
+);
+
+INSERT INTO STUDENT VALUES(
+    '1M17b5U',
+    'Iestyn',
+    'Ashley',
+    'Gj9i72E',
+    '42BqoM4'
+);
+
+INSERT INTO STUDENT VALUES(
+    'Q5dCo48',
+    'Kyra',
+    'Roy',
+    '6PF3o9J',
+    '58rI5j4'
+);
+
+INSERT INTO STUDENT VALUES(
+    '747Hw9u',
+    'Gracie',
+    'Holden',
+    'C221MBb',
+    'X6hKY74'
+);
+
+INSERT INTO STUDENT VALUES(
+    '3Nvb510',
+    'Samara',
+    'Hampton',
+    '9wMI09M',
+    'n0T816w'
+);
+
+INSERT INTO STUDENT VALUES(
+    '1qqR906',
+    'Carol',
+    'Munoz',
+    '2x892PK',
+    'b8RL7K2'
+);
+
+INSERT INTO STUDENT VALUES(
+    '60IWM6t',
+    'Carlos',
+    'Olsen',
+    'Fh53W7Q',
+    '0Wgr74p'
+);
+
+INSERT INTO STUDENT VALUES(
+    'y5R96CL',
+    'Gertrude',
+    'Ponce',
+    '2K2s21N',
+    'zG085SU'
+);
+
+INSERT INTO STUDENT VALUES(
+    '0v4Q2Pq',
+    'Natalie',
+    'Fernandez',
+    'lK0608u',
+    '1lY66iM'
+);
+
+INSERT INTO STUDENT VALUES(
+    '3xR36CG',
+    'Tianna',
+    'Pollard',
+    'Q7k08tT',
+    '7B4pk18'
+);
+
+INSERT INTO STUDENT VALUES(
+    'yFfm917',
+    'Olly',
+    'Bennett',
+    'lK0608u',
+    'WQP20b8'
+);
