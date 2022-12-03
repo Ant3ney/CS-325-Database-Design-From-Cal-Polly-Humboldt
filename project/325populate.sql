@@ -762,3 +762,448 @@ INSERT INTO STUDENT VALUES(
     'lK0608u',
     'WQP20b8'
 );
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '1M17b5U',
+    1182565744
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    'Q5DCO48',
+    1182565744
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '747Hw9u',
+    0316810923
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '3Nvb510',
+    2464547518
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '1qqR906',
+    3140638492
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '60IWM6t',
+    2692482633
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    'Y5R96CL',
+    8834118128
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '0v4Q2Pq',
+    4416395913
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '3xR36CG',
+    1880171247
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    'YFFM917',
+    3067325053
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '3Nvb510',
+    2297693054
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '1qqR906',
+    4878394714
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '60IWM6t',
+    4455248174
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    'Y5R96CL',
+    9852138245
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '0v4Q2Pq',
+    3021517866
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '3xR36CG',
+    6419714043
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    'YFFM917',
+    4912273900
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    'Y5R96CL',
+    0336203073
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '0v4Q2Pq',
+    4336222509
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    '3xR36CG',
+    8339348741
+);
+
+INSERT INTO STUDENT_PHONE VALUES(
+    'YFFM917',
+    9997392860
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    '1M17b5U',
+    'ashley@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    'Q5DCO48',
+    'roy@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    '747Hw9u',
+    'holden@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    '3Nvb510',
+    'hampton@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    '1qqR906',
+    'munoz@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    '60IWM6t',
+    'olsen@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    'Y5R96CL',
+    'ponce@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    '0v4Q2Pq',
+    'natalie@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    '3xR36CG',
+    'pollard@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    'YFFM917',
+    'bennett@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    'Q5DCO48',
+    'nmdoy@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    '747Hw9u',
+    'calsoy@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    '3Nvb510',
+    'areoi@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    '1qqR906',
+    'blamo@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    '60IWM6t',
+    'diaznutez@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    'Y5R96CL',
+    'orloman@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    '0v4Q2Pq',
+    'thecrazy@gmail.com'
+);
+
+INSERT INTO STUDENT_EMAIL VALUES(
+    '3xR36CG',
+    'golord@gmail.com'
+);
+
+INSERT INTO COURSE VALUES(
+    '0000001',
+    'Advanced Web Development',
+    'Learn advanced web development skills such as HTML, CSS, JavaScript and more to create dynamic, interactive websites.'
+);
+
+INSERT INTO COURSE VALUES(
+    '0000002',
+    'WordPress Development',
+    'Gain hands-on experience creating custom WordPress themes and plugins to build powerful and attractive websites.'
+);
+
+INSERT INTO COURSE VALUES(
+    '0000003',
+    'Responsive Web Design',
+    'Develop the skills and knowledge needed to create websites that are optimized for mobile devices and other resolutions.'
+);
+
+INSERT INTO COURSE VALUES(
+    '0000004',
+    'Front End Frameworks',
+    'Understand the fundamentals of popular front-end frameworks such as React and Angular to build more efficient and powerful web applications.'
+);
+
+INSERT INTO COURSE VALUES(
+    '0000005',
+    'JavaScript',
+    'Explore the fundamentals of JavaScript, including object-oriented programming, data structures, and algorithms to develop powerful web applications.'
+);
+
+INSERT INTO COURSE VALUES(
+    '0000006',
+    'Node.js',
+    'Learn to use Node.js to build backend solutions for web and mobile applications. Understand how to combine Node.js with other technologies.'
+);
+
+INSERT INTO COURSE VALUES(
+    '0000007',
+    'UX/UI Design',
+    'Develop an understanding of user experience and user interface design principles to create appealing and practical user interfaces for web and mobile applications.'
+);
+
+INSERT INTO COURSE VALUES(
+    '0000008',
+    'E-commerce',
+    'Unlock the power of the web and learn to create user-friendly and secure e-commerce websites and applications.'
+);
+
+INSERT INTO COURSE VALUES(
+    '0000009',
+    'Web Security',
+    'Understand the principles of web security to protect business and personal data from cyber threats.'
+);
+
+INSERT INTO COURSE VALUES(
+    '00000010',
+    'SEO',
+    'Learn the fundamentals of search engine optimization (SEO) to increase website traffic and visibility in search engine results.'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '1M17b5U',
+    '0000004'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    'Q5DCO48',
+    '0000004'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '747Hw9u',
+    '0000004'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '3Nvb510',
+    '0000004'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '1qqR906',
+    '0000004'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '60IWM6t',
+    '0000004'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    'Y5R96CL',
+    '0000004'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '0v4Q2Pq',
+    '0000004'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '3xR36CG',
+    '0000004'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    'YFFM917',
+    '0000004'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '1M17b5U',
+    '0000009'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    'Q5DCO48',
+    '0000009'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '747Hw9u',
+    '0000009'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '3Nvb510',
+    '0000009'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '1qqR906',
+    '0000009'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '60IWM6t',
+    '0000009'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    'Y5R96CL',
+    '0000009'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '0v4Q2Pq',
+    '0000009'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '3xR36CG',
+    '0000009'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    'YFFM917',
+    '0000009'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '1M17b5U',
+    '0000007'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    'Q5DCO48',
+    '0000007'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '747Hw9u',
+    '0000007'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '3Nvb510',
+    '0000007'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '1qqR906',
+    '0000007'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '60IWM6t',
+    '0000007'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    'Y5R96CL',
+    '0000007'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '0v4Q2Pq',
+    '0000007'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '3xR36CG',
+    '0000007'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    'YFFM917',
+    '0000007'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '1M17b5U',
+    '0000001'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    'Q5DCO48',
+    '0000002'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '747Hw9u',
+    '0000003'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '3Nvb510',
+    '0000005'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '1qqR906',
+    '0000006'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '1M17b5U',
+    '000001'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    'Q5DCO48',
+    '00000010'
+);
+
+INSERT INTO COURSE_STUDENTS VALUES(
+    '747Hw9u',
+    '0000008'
+);
