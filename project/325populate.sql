@@ -504,7 +504,7 @@ INSERT INTO INSTRUCTOR_SUBJ_OF_EXPTSE VALUES(
 );
 
 INSERT INTO PORTFOLIO VALUES(
-    'Gj9i72E',
+    '8HkX6X9',
     'https://www.codejourney.net/1778',
     'Qb5570t'
 );
@@ -683,11 +683,21 @@ INSERT INTO RESUME VALUES(
     'Qb5570t'
 );
 
+--CREATE TABLE STUDENT(
+--    STU_ID CHAR(7),
+--    F_NAME VARCHAR2(14) NOT NULL,
+--    L_NAME VARCHAR2(14),
+--    PRTFOL_ID CHAR(7),
+--    RESME_ID CHAR(7),
+--);
+
 INSERT INTO STUDENT VALUES(
+ --STU_ID
     '1M17b5U',
     'Iestyn',
     'Ashley',
-    'Gj9i72E',
+ --PRTFOL_ID
+    '8HkX6X9',
     '42BqoM4'
 );
 
@@ -759,7 +769,7 @@ INSERT INTO STUDENT VALUES(
     'yFfm917',
     'Olly',
     'Bennett',
-    'lK0608u',
+    'uKCZ482',
     'WQP20b8'
 );
 
@@ -1206,4 +1216,1211 @@ INSERT INTO COURSE_STUDENTS VALUES(
 INSERT INTO COURSE_STUDENTS VALUES(
     '747Hw9u',
     '0000008'
+);
+
+--started here delete me
+CREATE TABLE CLASS_SECTION(
+    '4Ig39f8',
+    '0000001',
+    'M, Tu, W, Th 9:00am - 2:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    '2H5w0So',
+    '0000002',
+    'M, Tu, W, Th 11:00am - 5:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'P2FOp53',
+    '0000003',
+    'M, Tu, W, Th 1:00pm - 6:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    '9I3q2dt',
+    '0000004',
+    'M, Tu, W, Th 5:00pm - 10:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    '9c08Wi6',
+    '0000005',
+    'M, Tu, W, Th 7:00am - 12:00pm'
+);
+
+-- End repeate delte me
+CREATE TABLE CLASS_SECTION(
+    'xO988LF',
+    '0000006',
+    'M, Tu, W, Th 9:00am - 2:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    '0mC1HP3',
+    '0000007',
+    'M, Tu, W, Th 11:00am - 5:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'a3XQ271',
+    '0000008',
+    'M, Tu, W, Th 1:00pm - 6:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'a3XQ271',
+    '0000009',
+    'M, Tu, W, Th 3:00pm - 8:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'a3XQ271',
+    '0000010',
+    'M, Tu, W, Th 5:00pm - 10:00pm'
+);
+
+--repeate courses
+CREATE TABLE CLASS_SECTION(
+    'Y1157f8',
+    '0000001',
+    'M, Tu, W, Th 7:00pm - 12:00am'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'oN1P22b',
+    '0000002',
+    'M, Tu, W, Th 9:00am - 2:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    '3J293cO',
+    '0000003',
+    'M, Tu, W, Th 11:00am - 5:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'fyAm168',
+    '0000004',
+    'M, Tu, W, Th 1:00pm - 6:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'd6SS0R5',
+    '0000005',
+    'M, Tu, W, Th 3:00pm - 8:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    '6bBB694',
+    '0000006',
+    'M, Tu, W, Th 5:00pm - 10:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    '6BHZ07t',
+    '0000007',
+    'M, Tu, W, Th 3:00pm - 8:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'Lr3X9K5',
+    '0000008',
+    'M, Tu, W, Th 1:00pm - 6:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    '70wA32a',
+    '0000009',
+    'M, Tu, W, Th 11:00am - 5:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'c8J8C37',
+    '0000010',
+    'M, Tu, W, Th 9:00am - 2:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    '387pUyP',
+    '0000001',
+    'M, Tu, W, Th 7:00pm - 12:00am'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'C753TcG',
+    '0000002',
+    'M, Tu, W, Th 5:00pm - 10:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'Gh6t23D',
+    '0000003',
+    'M, Tu, W, Th 3:00pm - 8:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'WHt4X51',
+    '0000004',
+    'M, Tu, W, Th 1:00pm - 6:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'WHt4X51',
+    '0000005',
+    'M, Tu, W, Th 11:00am - 5:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'jZ60q7v',
+    '0000006',
+    'M, Tu, W, Th 9:00am - 2:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    '271Esx7',
+    '0000007',
+    'M, Tu, W, Th 7:00am - 12:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    '735I8mO',
+    '0000008',
+    'M, Tu, W, Th 5:00pm - 10:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    'kb3Q05a',
+    '0000009',
+    'M, Tu, W, Th 3:00pm - 8:00pm'
+);
+
+CREATE TABLE CLASS_SECTION(
+    '29DC1Ll',
+    '0000010',
+    'M, Tu, W, Th 1:00pm - 6:00pm'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '273Dz6b',
+    '27-Oct-2022',
+    'Learned the basics of HTML and CSS',
+    '8HkX6X9',
+    '42BqoM4'
+);
+
+-- There are 28 acomplishments
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'ug06Ux8',
+    '09-Nov-2022',
+    'Built a simple, static website',
+    '6PF3o9J',
+    '58rI5j4'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '87FY7zh',
+    '24-Nov-2022',
+    'Practiced writing semantic markup',
+    '9wMI09M',
+    'X6hKY74'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'Yi8H391',
+    '18-Oct-2022',
+    'Learned about Flexbox and Grid layouts',
+    '2x892PK',
+    'n0T816w'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'u4v75J8',
+    '13-Sep-2022',
+    'Practiced responsive web design',
+    'Fh53W7Q',
+    'b8RL7K2'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '95aSXw5',
+    '09-Sep-2022',
+    'Built a simple navigation bar',
+    '2K2s21N',
+    '0Wgr74p'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '7Jc6Z1w',
+    '18-Oct-2022',
+    'Learned about JavaScript fundamentals',
+    'Q7k08tT',
+    'zG085SU'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '93R8zbb',
+    '13-Sep-2022',
+    'Practiced writing basic functions',
+    'lK0608u',
+    '1lY66iM'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'R7d4T27',
+    '16-Nov-2022',
+    'Built an interactive form',
+    'uKCZ482',
+    '7B4pk18'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'R6c7K16',
+    '01-Oct-2022',
+    'Learned about jQuery and AJAX',
+    'C221MBb',
+    'WQP20b8'
+);
+
+--Repates portfolio and resumes
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '23k2Z53',
+    '24-Sep-2022',
+    'Practiced writing AJAX requests',
+    '6PF3o9J',
+    '58rI5j4'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'z940jWk',
+    '13-Nov-2022',
+    'Built a basic chatbot',
+    '9wMI09M',
+    'X6hKY74'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'gK839Gv',
+    '10-Sep-2022',
+    'Learned about object-oriented programming',
+    '2x892PK',
+    'n0T816w'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'Gq9335Y',
+    '31-Oct-2022',
+    'Practiced writing classes and objects',
+    'Fh53W7Q',
+    'b8RL7K2'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'qU4u33r',
+    '28-Nov-2022',
+    'Built a simple calculator',
+    '2K2s21N',
+    '0Wgr74p'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'Wg44L9N',
+    '25-Oct-2022',
+    'Pair programed with peers',
+    'Q7k08tT',
+    'zG085SU'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '98Vb515',
+    '25-Nov-2022',
+    'Practice communication via in class presentation',
+    'lK0608u',
+    '1lY66iM'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '4FO8Nd1',
+    '30-Oct-2022',
+    'Researched and implemented new technologies',
+    'uKCZ482',
+    '7B4pk18'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'Fw323Qn',
+    '27-Oct-2022',
+    'Refactored existing code',
+    'C221MBb',
+    'WQP20b8'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'X451in6',
+    '20-Oct-2022',
+    'Fixed bugs in existing code',
+    '6PF3o9J',
+    '58rI5j4'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '1bz99U7',
+    '22-Nov-2022',
+    'Built a basic web application',
+    '9wMI09M',
+    'X6hKY74'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '75yh5Dr',
+    '23-Nov-2022',
+    'Learned about the Model-View-Controller (MVC) architecture',
+    '2x892PK',
+    'n0T816w'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '050KOj3',
+    '25-Oct-2022',
+    'Practiced writing MVC code',
+    'Fh53W7Q',
+    'b8RL7K2'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '4Z8s942',
+    '20-Oct-2022',
+    'Built a simple web API',
+    '2K2s21N',
+    '0Wgr74p'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'aB28c5c',
+    '24-Oct-2022',
+    'Learned about security best practices',
+    'Q7k08tT',
+    'zG085SU'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '4241oSb',
+    '02-Oct-2022',
+    'Practiced implementing security measures',
+    'lK0608u',
+    '1lY66iM'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    '7336Ahf',
+    '28-Sep-2022',
+    'Learned about security best practices',
+    'uKCZ482',
+    '7B4pk18'
+);
+
+INSERT INTO ACCOMPLISHMENTS VALUES(
+    'I1T2u7j',
+    '13-Sep-2022',
+    'Built a simple web API',
+    'C221MBb',
+    'WQP20b8'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '1M17b5U',
+    '273Dz6b'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    'Q5DCO48',
+    'ug06Ux8'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '747Hw9u',
+    '87FY7zh'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '3Nvb510',
+    'Yi8H391'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '1qqR906',
+    'u4v75J8'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '60IWM6t',
+    '95aSXw5'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    'Y5R96CL',
+    '7Jc6Z1w'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '0v4Q2Pq',
+    '93R8zbb'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '3xR36CG',
+    'R7d4T27'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    'YFFM917',
+    'R6c7K16'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '1M17b5U',
+    '23k2Z53'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    'Q5DCO48',
+    'z940jWk'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '747Hw9u',
+    'gK839Gv'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '3Nvb510',
+    'Gq9335Y'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '1qqR906',
+    'qU4u33r'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '60IWM6t',
+    'Wg44L9N'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    'Y5R96CL',
+    '98Vb515'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '0v4Q2Pq',
+    '4FO8Nd1'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '3xR36CG',
+    'Fw323Qn'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    'YFFM917',
+    'X451in6'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '1M17b5U',
+    '1bz99U7'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    'Q5DCO48',
+    '75yh5Dr'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '747Hw9u',
+    '050KOj3'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '3Nvb510',
+    '4Z8s942'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '1qqR906',
+    'aB28c5c'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '60IWM6t',
+    '4241oSb'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    'Y5R96CL',
+    '7336Ahf'
+);
+
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+    '0v4Q2Pq',
+    'I1T2u7j'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    '4Ig39f8',
+    'Qb5570t',
+    '4tJ02ih'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    '2H5w0So',
+    'gmQ1L41',
+    'aAY423P'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'P2FOp53',
+    'P0uRG97',
+    '45Rz124'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    '9I3q2dt',
+    'fAf845g',
+    'pP9773z'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    '9c08Wi6',
+    '7Meq7g3',
+    'C887x04'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'xO988LF',
+    'P5i3D9P',
+    '3mr9Z3X'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    '0mC1HP3',
+    '4qE8K9C',
+    '271O5Hk'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'a3XQ271',
+    '1xJh34Y',
+    'o9e01Ta'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'a3XQ271',
+    'Ewm821E',
+    'f9y4D52'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'a3XQ271',
+    'o9cY4b9',
+    'Gj9i72E'
+);
+
+-- Repeates
+
+INSERT INTO CLASS_STAFF VALUES(
+    'Y1157f8',
+    'Qb5570t',
+    '4tJ02ih'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'oN1P22b',
+    'gmQ1L41',
+    'aAY423P'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    '3J293cO',
+    'P0uRG97',
+    '45Rz124'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'fyAm168',
+    'fAf845g',
+    'pP9773z'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'd6SS0R5',
+    '7Meq7g3',
+    'C887x04'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    '6bBB694',
+    'P5i3D9P',
+    '3mr9Z3X'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    '6BHZ07t',
+    '4qE8K9C',
+    '271O5Hk'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'Lr3X9K5',
+    '1xJh34Y',
+    'o9e01Ta'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    '70wA32a',
+    'Ewm821E',
+    'f9y4D52'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'c8J8C37',
+    'o9cY4b9',
+    'Gj9i72E'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    '387pUyP',
+    'Qb5570t',
+    '4tJ02ih'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'C753TcG',
+    'gmQ1L41',
+    'aAY423P'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'Gh6t23D',
+    'P0uRG97',
+    '45Rz124'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'WHt4X51',
+    'fAf845g',
+    'pP9773z'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'WHt4X51',
+    '7Meq7g3',
+    'C887x04'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'jZ60q7v',
+    'P5i3D9P',
+    '3mr9Z3X'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    '271Esx7',
+    '4qE8K9C',
+    '271O5Hk'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    '735I8mO',
+    '1xJh34Y',
+    'o9e01Ta'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    'kb3Q05a',
+    'Ewm821E',
+    'f9y4D52'
+);
+
+INSERT INTO CLASS_STAFF VALUES(
+    '29DC1Ll',
+    'o9cY4b9',
+    'Gj9i72E'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    STU_ID CHAR(7),
+    CLS_ID CHAR(7)
+);
+
+--CREATE TABLE CLASS_STUDENTS(
+--    STU_ID CHAR(7),
+--    CLS_ID CHAR(7),
+--    PRIMARY KEY (STU_ID, CLS_ID),
+--    FOREIGN KEY (STU_ID) REFERENCES STUDENT,
+--    FOREIGN KEY (CLS_ID) REFERENCES CLASS_SECTION
+--);
+
+CREATE TABLE CLASS_STUDENTS(
+ --STU_ID
+    '1M17b5U',
+ --CLS_ID
+    '4Ig39f8'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    'Q5DCO48',
+    '4Ig39f8'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '747Hw9u',
+    '4Ig39f8'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '3Nvb510',
+    '2H5w0So'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '1qqR906',
+    'P2FOp53'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '60IWM6t',
+    '9I3q2dt'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    'Y5R96CL',
+    '9c08Wi6'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '0v4Q2Pq',
+    '4Ig39f8'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '3xR36CG',
+    '2H5w0So'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    'YFFM917',
+    'P2FOp53'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '1M17b5U',
+    '9I3q2dt'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    'Q5DCO48',
+    '2H5w0So'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '747Hw9u',
+    '2H5w0So'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '3Nvb510',
+    '9I3q2dt'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '1qqR906',
+    '9I3q2dt'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '60IWM6t',
+    '9c08Wi6'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    'Y5R96CL',
+    '4Ig39f8'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '0v4Q2Pq',
+    '2H5w0So'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '3xR36CG',
+    'P2FOp53'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    'YFFM917',
+    '9I3q2dt'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '1M17b5U',
+    '9c08Wi6'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    'Q5DCO48',
+    'P2FOp53'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '747Hw9u',
+    '9c08Wi6'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '3Nvb510',
+    'P2FOp53'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '1qqR906',
+    '2H5w0So'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '60IWM6t',
+    '2H5w0So'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    'Y5R96CL',
+    'P2FOp53'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '0v4Q2Pq',
+    '9I3q2dt'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    '3xR36CG',
+    'P2FOp53'
+);
+
+CREATE TABLE CLASS_STUDENTS(
+    'YFFM917',
+    '2H5w0So'
+);
+
+INSERT INTO PROJECT VALUES(
+    PRJ_ID CHAR(7),
+    TITLE VARCHAR2(15),
+    PROJ_DESC VARCHAR2(50),
+    PRJ_STACK VARCHAR2(30),
+    CLS_ID CHAR(7),
+    PRTFOL_ID CHAR(7),
+    RSME_ID CHAR(7)
+);
+
+INSERT INTO PROJECT VALUES(
+    'uT637h6',
+    'Mortgage calculator web app',
+    'A mortgage calculator that anyone can use to easily plan their mortgages out.',
+    'Nginx, Node.js, MongoDB, Linux, JavaScript, React',
+    '9c08Wi6',
+    '8HkX6X9',
+    '42BqoM4'
+);
+
+INSERT INTO PROJECT VALUES(
+    '157TLu7',
+    'Online Shopping Cart',
+    'An online shopping cart application that allows customers to easily purchase products.',
+    'Apache, PHP, MySQL, Linux, HTML, CSS',
+    '4Ig39f8',
+    '6PF3o9J',
+    '58rI5j4'
+);
+
+INSERT INTO PROJECT VALUES(
+    '260j2kR',
+    'Recipe App',
+    'An app to store and find recipes, and share them with others.',
+    'Nginx, Rails, PostgreSQL, Linux, Ruby, jQuery',
+    '2H5w0So',
+    '9wMI09M',
+    'X6hKY74'
+);
+
+INSERT INTO PROJECT VALUES(
+    'a0Ut95v',
+    'Image Uploader',
+    'A web-based application that allows users to upload and store images.',
+    'Apache, Java, Oracle, Windows, JavaScript, Angular',
+    'P2FOp53',
+    '2x892PK',
+    'n0T816w'
+);
+
+INSERT INTO PROJECT VALUES(
+    '4PhJ0W6',
+    'Job Board',
+    'A site where employers can post jobs and job seekers can find them.',
+    'Nginx, Go, Redis, Linux, HTML, Bootstrap',
+    '9I3q2dt',
+    'Fh53W7Q',
+    'b8RL7K2'
+);
+
+INSERT INTO PROJECT VALUES(
+    'aP0f437',
+    'Online Education Platform',
+    'An online education platform that allows users to learn from experts in a variety of fields.',
+    'Apache, Python, MySQL, Windows, JavaScript, Vue.js',
+    '9c08Wi6',
+    '2K2s21N',
+    '0Wgr74p'
+);
+
+INSERT INTO PROJECT VALUES(
+    'pRId020',
+    'Social Networking Site',
+    'A web application that allows people to connect with others, share photos and stories, and collaborate.',
+    'Apache, Java, MySQL, Windows, HTML, CSS',
+    '2H5w0So',
+    'Q7k08tT',
+    'zG085SU'
+);
+
+INSERT INTO PROJECT VALUES(
+    '1p64dJt',
+    'Event Management System',
+    'A web-based application to facilitate the planning, execution, and tracking of events.',
+    'Apache, PHP, MySQL, Linux, JavaScript, jQuery',
+    '4Ig39f8',
+    'lK0608u',
+    '1lY66iM'
+);
+
+INSERT INTO PROJECT VALUES(
+    't9q18qQ',
+    'Video Streaming Platform',
+    'An online video streaming platform for users to watch and share videos.',
+    'Nginx, Python, PostgreSQL, Linux, HTML, Bootstrap',
+    'P2FOp53',
+    'uKCZ482',
+    '7B4pk18'
+);
+
+INSERT INTO PROJECT VALUES(
+    '57ipBO2',
+    'Employee Management System',
+    'A web-based application to manage employee information, payroll, and scheduling.',
+    'Apache, PHP, MariaDB, Windows, JavaScript, Angular',
+    '4Ig39f8',
+    'C221MBb',
+    'WQP20b8'
+);
+
+INSERT INTO PROJECT VALUES(
+    'zN1670g',
+    'Online Payment System',
+    'An online payment system that allows users to securely make and receive payments.',
+    'Nginx, Node.js, MongoDB, Linux, TypeScript, Vue.js',
+    '9I3q2dt',
+    '8HkX6X9',
+    '42BqoM4'
+);
+
+INSERT INTO PROJECT VALUES(
+    'yL45l95',
+    'Collaborative Document Editor',
+    'A web-based platform to share and store documents, images, and other files.',
+    'Apache, Java, Oracle, Windows, HTML, SCSS',
+    '2H5w0So',
+    '6PF3o9J',
+    '58rI5j4'
+);
+
+INSERT INTO PROJECT VALUES(
+    '77r6vRi',
+    'File Sharing Platform',
+    'A web-based platform to share and store documents, images, and other files.',
+    'Nginx, Python, PostgreSQL, Linux, JavaScript, React Native',
+    '9I3q2dt',
+    '9wMI09M',
+    'X6hKY74'
+);
+
+INSERT INTO PROJECT VALUES(
+    's362Wm5',
+    'Crowdfunding Platform',
+    'An online platform to help people crowdfund projects.',
+    'Apache, PHP, MySQL, Linux, TypeScript, Svelte',
+    '9I3q2dt',
+    '2x892PK',
+    'n0T816w'
+);
+
+INSERT INTO PROJECT VALUES(
+    'pHD82g9',
+    'Website Builder',
+    'A web-based application to help users easily create and build their own websites.',
+    'Nginx, Python, PostgreSQL, Linux, JavaScript, jQuery',
+    '9c08Wi6',
+    'Fh53W7Q',
+    'b8RL7K2'
+);
+
+INSERT INTO PROJECT VALUES(
+    'vQM60Y4',
+    'Customer Relationship Management System',
+    'A web-based application to help businesses track customer interactions and relationships.',
+    'Apache, Ruby on Rails, PostgreSQL, Linux, JavaScript, Bootstrap',
+    '4Ig39f8',
+    '2K2s21N',
+    '0Wgr74p'
+);
+
+INSERT INTO PROJECT VALUES(
+    'rEqg195',
+    'Online Scheduling System',
+    'A web-based system to help users manage appointments and other events.',
+    'Apache, PHP, MySQL, Linux, HTML, CSS',
+    'P2FOp53',
+    'Q7k08tT',
+    'zG085SU'
+);
+
+INSERT INTO PROJECT VALUES(
+    'jb3fY64',
+    'Task Management System',
+    'A web-based application to help users manage tasks, assignments, and projects.',
+    'Nginx, Python, PostgreSQL, Linux, JavaScript, jQuery',
+    '2H5w0So',
+    'lK0608u',
+    '1lY66iM'
+);
+
+INSERT INTO PROJECT VALUES(
+    '0T1k57o',
+    'Network Monitoring System',
+    'A web-based system to help users monitor and secure their networks.',
+    'Apache, Ruby on Rails, PostgreSQL, Linux, JavaScript, Bootstrap',
+    '9I3q2dt',
+    'uKCZ482',
+    '7B4pk18'
+);
+
+INSERT INTO PROJECT VALUES(
+    'Ha728RA',
+    'Online Booking System',
+    'An online booking system that allows customers to book services and appointments.',
+    'Apache, PHP, MySQL, Linux, HTML, CSS',
+    '2H5w0So',
+    'C221MBb',
+    'WQP20b8'
+);
+
+INSERT INTO PROJECT VALUES(
+    'VIsJ668',
+    'Mortgage calculator web app',
+    'A mortgage calculator that anyone can use to easily plan their mortgages out.',
+    'Nginx, Node.js, MongoDB, Linux, JavaScript, React',
+    '9c08Wi6',
+    '8HkX6X9',
+    '42BqoM4'
+);
+
+INSERT INTO PROJECT VALUES(
+    '199ttAR',
+    'Online Shopping Cart',
+    'An online shopping cart application that allows customers to easily purchase products.',
+    'Apache, PHP, MySQL, Linux, HTML, CSS',
+    'P2FOp53',
+    '6PF3o9J',
+    '58rI5j4'
+);
+
+INSERT INTO PROJECT VALUES(
+    'sQ3Z0A9',
+    'Recipe App',
+    'An app to store and find recipes, and share them with others. ',
+    'Nginx, Rails, PostgreSQL, Linux, Ruby, jQuery',
+    'P2FOp53',
+    '9wMI09M',
+    'X6hKY74'
+);
+
+INSERT INTO PROJECT VALUES(
+    'mS303ii',
+    'Image Uploader',
+    'A web-based application that allows users to upload and store images.',
+    'Apache, Java, Oracle, Windows, JavaScript, Angular',
+    '2H5w0So',
+    '2x892PK',
+    'n0T816w'
+);
+
+INSERT INTO PROJECT VALUES(
+    'g4H366L',
+    'Job Board',
+    'A site where employers can post jobs and job seekers can find them.',
+    'Nginx, Go, Redis, Linux, HTML, Bootstrap',
+    '2H5w0So',
+    'Fh53W7Q',
+    'b8RL7K2'
+);
+
+INSERT INTO PROJECT VALUES(
+    'wgVf258',
+    'Online Education Platform',
+    'An online education platform that allows users to learn from experts in a variety of fields.',
+    'Apache, Python, MySQL, Windows, JavaScript, Vue.js',
+    'P2FOp53',
+    '2K2s21N',
+    '0Wgr74p'
+);
+
+INSERT INTO PROJECT VALUES(
+    'V475vNx',
+    'Social Networking Site',
+    'A web application that allows people to connect with others, share photos and stories, and collaborate.',
+    'Apache, Java, MySQL, Windows, HTML, CSS',
+    '4Ig39f8',
+    'Q7k08tT',
+    'zG085SU'
+);
+
+INSERT INTO PROJECT VALUES(
+    '1V5W72r',
+    'Event Management System',
+    'A web-based application to facilitate the planning, execution, and tracking of events.',
+    '',
+    '9I3q2dt',
+    'lK0608u',
+    '1lY66iM'
+);
+
+INSERT INTO PROJECT VALUES(
+    '3XPg34p',
+    'Video Streaming Platform',
+    'An online video streaming platform for users to watch and share videos.',
+    'Nginx, Python, PostgreSQL, Linux, HTML, Bootstrap',
+    '2H5w0So',
+    'uKCZ482',
+    '7B4pk18'
+);
+
+INSERT INTO PROJECT VALUES(
+    'E5td05V',
+    'Online Payment System',
+    'An online payment system that allows users to securely make and receive payments.',
+    'Nginx, Node.js, MongoDB, Linux, TypeScript, Vue.js',
+    '9c08Wi6',
+    'C221MBb',
+    'WQP20b8'
 );
