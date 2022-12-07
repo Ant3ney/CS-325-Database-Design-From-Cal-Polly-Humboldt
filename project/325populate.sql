@@ -8,7 +8,7 @@ DELETE FROM STUDENT_ACCOMPLISHMENTS;
 
 DELETE FROM ACCOMPLISHMENTS;
 
-DELETE FROM CLASS_STUDENTS;
+DELETE FROM CLASS_STUDENTS VALUES;
 
 DELETE FROM PROJECT;
 
@@ -868,7 +868,7 @@ INSERT INTO STUDENT_PHONE VALUES(
     9997392860
 );
 
-/*INSERT INTO STUDENT_EMAIL VALUES(
+INSERT INTO STUDENT_EMAIL VALUES(
     '1M17b5U',
     'ashley@gmail.com'
 );
@@ -1194,8 +1194,8 @@ INSERT INTO COURSE_STUDENTS VALUES(
 );
 
 INSERT INTO COURSE_STUDENTS VALUES(
-    '1M17b5U',
-    '000001'
+    '0v4Q2Pq',
+    '0000001'
 );
 
 INSERT INTO COURSE_STUDENTS VALUES(
@@ -1208,184 +1208,183 @@ INSERT INTO COURSE_STUDENTS VALUES(
     '0000008'
 );
 
---started here delete me
-CREATE TABLE CLASS_SECTION(
-    '4Ig39f8',
+INSERT INTO CLASS_SECTION VALUES(
+    '4lg39f8',
     '0000001',
     'M, Tu, W, Th 9:00am - 2:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     '2H5w0So',
     '0000002',
     'M, Tu, W, Th 11:00am - 5:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'P2FOp53',
     '0000003',
     'M, Tu, W, Th 1:00pm - 6:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     '9I3q2dt',
     '0000004',
     'M, Tu, W, Th 5:00pm - 10:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     '9c08Wi6',
     '0000005',
     'M, Tu, W, Th 7:00am - 12:00pm'
 );
 
 -- End repeate delte me
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'xO988LF',
     '0000006',
     'M, Tu, W, Th 9:00am - 2:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     '0mC1HP3',
     '0000007',
     'M, Tu, W, Th 11:00am - 5:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'a3XQ271',
     '0000008',
     'M, Tu, W, Th 1:00pm - 6:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
-    'a3XQ271',
+INSERT INTO CLASS_SECTION VALUES(
+    '83XQ27g',
     '0000009',
     'M, Tu, W, Th 3:00pm - 8:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
-    'a3XQ271',
+INSERT INTO CLASS_SECTION VALUES(
+    'h3XQ272',
     '0000010',
     'M, Tu, W, Th 5:00pm - 10:00pm'
 );
 
 --repeate courses
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'Y1157f8',
     '0000001',
     'M, Tu, W, Th 7:00pm - 12:00am'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'oN1P22b',
     '0000002',
     'M, Tu, W, Th 9:00am - 2:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     '3J293cO',
     '0000003',
     'M, Tu, W, Th 11:00am - 5:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'fyAm168',
     '0000004',
     'M, Tu, W, Th 1:00pm - 6:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'd6SS0R5',
     '0000005',
     'M, Tu, W, Th 3:00pm - 8:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     '6bBB694',
     '0000006',
     'M, Tu, W, Th 5:00pm - 10:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     '6BHZ07t',
     '0000007',
     'M, Tu, W, Th 3:00pm - 8:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'Lr3X9K5',
     '0000008',
     'M, Tu, W, Th 1:00pm - 6:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     '70wA32a',
     '0000009',
     'M, Tu, W, Th 11:00am - 5:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'c8J8C37',
     '0000010',
     'M, Tu, W, Th 9:00am - 2:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     '387pUyP',
     '0000001',
     'M, Tu, W, Th 7:00pm - 12:00am'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'C753TcG',
     '0000002',
     'M, Tu, W, Th 5:00pm - 10:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'Gh6t23D',
     '0000003',
     'M, Tu, W, Th 3:00pm - 8:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'WHt4X51',
     '0000004',
     'M, Tu, W, Th 1:00pm - 6:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
-    'WHt4X51',
+INSERT INTO CLASS_SECTION VALUES(
+    'gHt4X52',
     '0000005',
     'M, Tu, W, Th 11:00am - 5:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'jZ60q7v',
     '0000006',
     'M, Tu, W, Th 9:00am - 2:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     '271Esx7',
     '0000007',
     'M, Tu, W, Th 7:00am - 12:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     '735I8mO',
     '0000008',
     'M, Tu, W, Th 5:00pm - 10:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     'kb3Q05a',
     '0000009',
     'M, Tu, W, Th 3:00pm - 8:00pm'
 );
 
-CREATE TABLE CLASS_SECTION(
+INSERT INTO CLASS_SECTION VALUES(
     '29DC1Ll',
     '0000010',
     'M, Tu, W, Th 1:00pm - 6:00pm'
@@ -1616,9 +1615,9 @@ INSERT INTO ACCOMPLISHMENTS VALUES(
     'Built a simple web API',
     'C221MBb',
     'WQP20b8'
-); */
+);
 
-/* INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
+INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
     '1M17b5U',
     '273Dz6b'
 );
@@ -1759,7 +1758,7 @@ INSERT INTO STUDENT_ACCOMPLISHMENTS VALUES(
 );
 
 INSERT INTO CLASS_STAFF VALUES(
-    '4Ig39f8',
+    '4lg39f8',
     'Qb5570t',
     '4tJ02ih'
 );
@@ -1940,12 +1939,7 @@ INSERT INTO CLASS_STAFF VALUES(
     'Gj9i72E'
 );
 
-CREATE TABLE CLASS_STUDENTS(
-    STU_ID CHAR(7),
-    CLS_ID CHAR(7)
-);
-
---CREATE TABLE CLASS_STUDENTS(
+--INSERT INTO CLASS_STUDENTS VALUES(
 --    STU_ID CHAR(7),
 --    CLS_ID CHAR(7),
 --    PRIMARY KEY (STU_ID, CLS_ID),
@@ -1953,167 +1947,167 @@ CREATE TABLE CLASS_STUDENTS(
 --    FOREIGN KEY (CLS_ID) REFERENCES CLASS_SECTION
 --);
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
  --STU_ID
     '1M17b5U',
  --CLS_ID
-    '4Ig39f8'
+    '4lg39f8'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '2M17b5B',
-    '4Ig39f8'
+    '4lg39f8'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '747Hw9u',
-    '4Ig39f8'
+    '4lg39f8'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '3Nvb510',
     '2H5w0So'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '1qqR906',
     'P2FOp53'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '60IWM6t',
     '9I3q2dt'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     'Y5R96CL',
     '9c08Wi6'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '0v4Q2Pq',
-    '4Ig39f8'
+    '4lg39f8'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '3xR36CG',
     '2H5w0So'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     'YFFM917',
     'P2FOp53'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '1M17b5U',
     '9I3q2dt'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '2M17b5B',
     '2H5w0So'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '747Hw9u',
     '2H5w0So'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '3Nvb510',
     '9I3q2dt'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '1qqR906',
     '9I3q2dt'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '60IWM6t',
     '9c08Wi6'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     'Y5R96CL',
-    '4Ig39f8'
+    '4lg39f8'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '0v4Q2Pq',
     '2H5w0So'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '3xR36CG',
-    'P2FOp53'
+    '9I3q2dt'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     'YFFM917',
     '9I3q2dt'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '1M17b5U',
     '9c08Wi6'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '2M17b5B',
     'P2FOp53'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '747Hw9u',
     '9c08Wi6'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '3Nvb510',
     'P2FOp53'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '1qqR906',
     '2H5w0So'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '60IWM6t',
     '2H5w0So'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     'Y5R96CL',
     'P2FOp53'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '0v4Q2Pq',
     '9I3q2dt'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     '3xR36CG',
     'P2FOp53'
 );
 
-CREATE TABLE CLASS_STUDENTS(
+INSERT INTO CLASS_STUDENTS VALUES(
     'YFFM917',
     '2H5w0So'
 );
 
-INSERT INTO PROJECT VALUES(
-    PRJ_ID CHAR(7),
-    TITLE VARCHAR2(15),
-    PROJ_DESC VARCHAR2(50),
-    PRJ_STACK VARCHAR2(30),
-    CLS_ID CHAR(7),
-    PRTFOL_ID CHAR(7),
-    RSME_ID CHAR(7)
-);
+--INSERT INTO PROJECT VALUES(
+--    PRJ_ID CHAR(7),
+--    TITLE VARCHAR2(15),
+--    PROJ_DESC VARCHAR2(50),
+--    PRJ_STACK VARCHAR2(30),
+--    CLS_ID CHAR(7),
+--    PRTFOL_ID CHAR(7),
+--    RSME_ID CHAR(7)
+-- );
 
 INSERT INTO PROJECT VALUES(
     'uT637h6',
@@ -2130,7 +2124,7 @@ INSERT INTO PROJECT VALUES(
     'Online Shopping Cart',
     'An online shopping cart application that allows customers to easily purchase products.',
     'Apache, PHP, MySQL, Linux, HTML, CSS',
-    '4Ig39f8',
+    '4lg39f8',
     '6PF3o9J',
     '58rI5j4'
 );
@@ -2190,7 +2184,7 @@ INSERT INTO PROJECT VALUES(
     'Event Management System',
     'A web-based application to facilitate the planning, execution, and tracking of events.',
     'Apache, PHP, MySQL, Linux, JavaScript, jQuery',
-    '4Ig39f8',
+    '4lg39f8',
     'lK0608u',
     '1lY66iM'
 );
@@ -2210,7 +2204,7 @@ INSERT INTO PROJECT VALUES(
     'Employee Management System',
     'A web-based application to manage employee information, payroll, and scheduling.',
     'Apache, PHP, MariaDB, Windows, JavaScript, Angular',
-    '4Ig39f8',
+    '4lg39f8',
     'C221MBb',
     'WQP20b8'
 );
@@ -2270,7 +2264,7 @@ INSERT INTO PROJECT VALUES(
     'Customer Relationship Management System',
     'A web-based application to help businesses track customer interactions and relationships.',
     'Apache, Ruby on Rails, PostgreSQL, Linux, JavaScript, Bootstrap',
-    '4Ig39f8',
+    '4lg39f8',
     '2K2s21N',
     '0Wgr74p'
 );
@@ -2380,7 +2374,7 @@ INSERT INTO PROJECT VALUES(
     'Social Networking Site',
     'A web application that allows people to connect with others, share photos and stories, and collaborate.',
     'Apache, Java, MySQL, Windows, HTML, CSS',
-    '4Ig39f8',
+    '4lg39f8',
     'Q7k08tT',
     'zG085SU'
 );
@@ -2413,4 +2407,201 @@ INSERT INTO PROJECT VALUES(
     '9c08Wi6',
     'C221MBb',
     'WQP20b8'
-); */
+);
+
+--CREATE TABLE EXPERIENCE(
+--    EXP_ID CHAR(7),
+--    START_DATE DATE,
+--    MONTS_WORKED NUMBER,
+--    COMP_NAME VARCHAR2(14),
+--    REF_NUM NUMBER(14, 10),
+--    REF_NAME VARCHAR2(14),
+--    PRTFOL_ID CHAR(7),
+--    RSME_ID CHAR(7),
+--    PRIMARY KEY (EXP_ID),
+--    FOREIGN KEY (PRTFOL_ID) REFERENCES PORTFOLIO,
+--    FOREIGN KEY (RSME_ID) REFERENCES RESUME
+--);
+
+INSERT INTO EXPERIENCE VALUES(
+    'p9V5tk0',
+    '30-Jun-2017',
+    23,
+    'Amazon',
+    2897215893,
+    'Seth Reilly',
+    '8HkX6X9',
+    '42BqoM4'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    'xC24576',
+    '08-Jul-2017',
+    31,
+    'Apple',
+    5420504008,
+    'Bethan Mcconnell',
+    '8HkX6X9',
+    '42BqoM4'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    'W2Ov752',
+    '09-Jan-2017',
+    41,
+    'Alphabet Inc',
+    6695500006,
+    'Penelope Camacho',
+    'C221MBb',
+    'X6hKY74'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    '7S75uVn',
+    '28-May-2016',
+    20,
+    'Microsoft',
+    6093615352,
+    'Cindy Johnston',
+    '9wMI09M',
+    'n0T816w'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    '3x0w48T',
+    '22-Feb-2016',
+    4,
+    'Samsung Group',
+    6946718448,
+    'Edie Rich',
+    '9wMI09M',
+    'n0T816w'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    'ruZf809',
+    '15-Nov-2016',
+    22,
+    'Tencent Holdings',
+    7929928463,
+    'Lukas Hayes',
+    '9wMI09M',
+    'n0T816w'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    'ZPj814Y',
+    '26-Apr-2017',
+    9,
+    'Meta Platforms',
+    8680531910,
+    'Nora Mays',
+    '2K2s21N',
+    'zG085SU'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    'VdT195V',
+    '01-Aug-2017',
+    39,
+    'Cisco Systems',
+    8022946617,
+    'Cassius Paul',
+    'Q7k08tT',
+    '7B4pk18'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    '10EXm4j',
+    '17-Mar-2017',
+    39,
+    'Oracle Corporation',
+    2810578834,
+    'Kaleb Harvey',
+    'Q7k08tT',
+    '7B4pk18'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    '027AwoO',
+    '21-Jan-2017',
+    40,
+    'Broadcom Inc',
+    2803566869,
+    'Edwin Leach',
+    'Q7k08tT',
+    '7B4pk18'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    'ry74oI6',
+    '31-Jul-2017',
+    23,
+    'SAP',
+    3280496896,
+    'Coral Fox',
+    'Q7k08tT',
+    '7B4pk18'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    'W322Iyr',
+    '09-Jan-2018',
+    33,
+    'Accenture',
+    1533964558,
+    'Hanna Rocha',
+    'Q7k08tT',
+    '7B4pk18'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    '913mK56',
+    '11-Feb-2016',
+    19,
+    'Salesforce',
+    6438289006,
+    'Harri Walker',
+    'uKCZ482',
+    'WQP20b8'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    '23q64XP',
+    '03-Jul-2016',
+    31,
+    'Adobe',
+    8641134809,
+    'Christian Matthams',
+    'uKCZ482',
+    'WQP20b8'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    'D7sN125',
+    '24-May-2016',
+    30,
+    'Intuit',
+    4669110533,
+    'Audrey Daniels',
+    'uKCZ482',
+    'WQP20b8'
+);
+
+INSERT INTO EXPERIENCE VALUES(
+    'j74k6Wr',
+    '24-May-2016',
+    30,
+    'Capgemini',
+    0898321525,
+    'Lauren Golden',
+    'uKCZ482',
+    'WQP20b8'
+);
+
+--CREATE TABLE EXPERIENCE_ACCOMPLISHMENT(
+--    EXP_ID CHAR(7),
+--    ACCOMPLISHMENT VARCHAR2(30),
+--    PRIMARY KEY (EXP_ID, ACCOMPLISHMENT),
+--    FOREIGN KEY (EXP_ID) REFERENCES EXPERIENCE
+--);
