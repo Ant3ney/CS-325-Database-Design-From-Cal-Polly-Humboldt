@@ -2647,3 +2647,243 @@ INSERT INTO EXPERIENCE VALUES(
 --    PRIMARY KEY (EXP_ID, ACCOMPLISHMENT),
 --    FOREIGN KEY (EXP_ID) REFERENCES EXPERIENCE
 --);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'p9V5tk0',
+    'Developed front ends using react'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'xC24576',
+    'Developed software applications using React, JavaScript, HTML5, and CSS'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'W2Ov752',
+    'Collaborated with software engineers to implement user interface designs'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '7S75uVn',
+    'Created custom React components and integrated them into existing applications'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '3x0w48T',
+    'Utilized Redux to manage complex state within a React application'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'ruZf809',
+    'Developed unit tests using Jest and Enzyme'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'ZPj814Y',
+    'Implemented REST APIs and GraphQL to communicate with back-end services'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'VdT195V',
+    'Debugged and resolved complex performance issues'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '10EXm4j',
+    'Optimized React components for maximum performance'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '027AwoO',
+    'Used version control (Git) to manage source code'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'ry74oI6',
+    'Developed automated tests to ensure the quality of the application'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'W322Iyr',
+    'Deployed React applications to production servers'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '913mK56',
+    'Developed front ends using react'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '23q64XP',
+    'Developed software applications using React, JavaScript, HTML5, and CSS'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'D7sN125',
+    'Collaborated with software engineers to implement user interface designs'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'j74k6Wr',
+    'Created custom React components and integrated them into existing applications'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'p9V5tk0',
+    'Utilized Redux to manage complex state within a React application'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'xC24576',
+    'Developed unit tests using Jest and Enzyme'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'W2Ov752',
+    'Implemented REST APIs and GraphQL to communicate with back-end services'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '7S75uVn',
+    'Debugged and resolved complex performance issues'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '3x0w48T',
+    'Optimized React components for maximum performance'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'ruZf809',
+    'Used version control (Git) to manage source code'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'ZPj814Y',
+    'Developed automated tests to ensure the quality of the application'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'VdT195V',
+    'Deployed React applications to production servers'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '10EXm4j',
+    'Developed front ends using react'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '027AwoO',
+    'Developed software applications using React, JavaScript, HTML5, and CSS'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'ry74oI6',
+    'Collaborated with software engineers to implement user interface designs'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'W322Iyr',
+    'Created custom React components and integrated them into existing applications'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '913mK56',
+    'Utilized Redux to manage complex state within a React application'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '23q64XP',
+    'Developed unit tests using Jest and Enzyme'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'D7sN125',
+    'Implemented REST APIs and GraphQL to communicate with back-end services'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'j74k6Wr',
+    'Debugged and resolved complex performance issues'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'p9V5tk0',
+    'Optimized React components for maximum performance'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'xC24576',
+    'Used version control (Git) to manage source code'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'W2Ov752',
+    'Developed automated tests to ensure the quality of the application'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '7S75uVn',
+    'Deployed React applications to production servers'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '3x0w48T',
+    'Developed front ends using react'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'ruZf809',
+    'Developed software applications using React, JavaScript, HTML5, and CSS'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'ZPj814Y',
+    'Collaborated with software engineers to implement user interface designs'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'VdT195V',
+    'Created custom React components and integrated them into existing applications'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '10EXm4j',
+    'Utilized Redux to manage complex state within a React application'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '027AwoO',
+    'Developed unit tests using Jest and Enzyme'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'ry74oI6',
+    'Implemented REST APIs and GraphQL to communicate with back-end services'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'W322Iyr',
+    'Debugged and resolved complex performance issues'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '913mK56',
+    'Optimized React components for maximum performance'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    '23q64XP',
+    'Used version control (Git) to manage source code'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'D7sN125',
+    'Developed automated tests to ensure the quality of the application'
+);
+
+INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
+    'j74k6Wr',
+    'Deployed React applications to production servers'
+);
