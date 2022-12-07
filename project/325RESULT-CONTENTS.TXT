@@ -1,0 +1,81 @@
+MYNAN_STAFF
+
+MYNAN_I F_NAME         L_NAME         IS_CAREER_COACH IS_INSTRUCTOR                                                                                   
+------- -------------- -------------- --------------- -------------                                                                                   
+Qb5570t Harry          Bonilla                      1             0                                                                                   
+gmQ1L41 Seren          Gallagher                    1             0                                                                                   
+P0uRG97 Kyla           Moreno                       1             0                                                                                   
+fAf845g Katy           Mann                         1             0                                                                                   
+7Meq7g3 Grace          Baird                        1             0                                                                                   
+P5i3D9P Vera           Day                          1             0                                                                                   
+4qE8K9C Autumn         Mccoy                        1             0                                                                                   
+1xJh34Y Felix          Shannon                      1             0                                                                                   
+Ewm821E Hope           Thornton                     1             0                                                                                   
+o9cY4b9 Zachary        Proctor                      1             0                                                                                   
+4tJ02ih Eleri          Walls                        0             1                                                                                   
+
+MYNAN_I F_NAME         L_NAME         IS_CAREER_COACH IS_INSTRUCTOR                                                                                   
+------- -------------- -------------- --------------- -------------                                                                                   
+aAY423P Nataniel       Meyer                        0             1                                                                                   
+45Rz124 Nicole         Lara                         0             1                                                                                   
+pP9773z Vivian         Sykes                        0             1                                                                                   
+C887x04 Kristina       Harding                      0             1                                                                                   
+3mr9Z3X Amelia         Villegas                     0             1                                                                                   
+271O5Hk Zahraa         Chandler                     0             1                                                                                   
+o9e01Ta Raheem         Gallagher                    0             1                                                                                   
+f9y4D52 Sumaiya        Osborn                       0             1                                                                                   
+Gj9i72E Tyrone         Hickman                      0             1                                                                                   
+
+20 rows selected.
+
+CAREER_COACH
+
+MYNAN_I                                                                                                                                               
+-------                                                                                                                                               
+Qb5570t                                                                                                                                               
+gmQ1L41                                                                                                                                               
+P0uRG97                                                                                                                                               
+fAf845g                                                                                                                                               
+7Meq7g3                                                                                                                                               
+P5i3D9P                                                                                                                                               
+4qE8K9C                                                                                                                                               
+1xJh34Y                                                                                                                                               
+Ewm821E                                                                                                                                               
+o9cY4b9                                                                                                                                               
+
+10 rows selected.
+
+CAREER_COACH_INDUS_EXP
+
+MYNAN_I INDUS_EXPERIENCE                                                                                                                              
+------- ----------------------------------------                                                                                                      
+Qb5570t 3 year software analyst                                                                                                                       
+gmQ1L41 quality assurance engineer for 2 years                                                                                                        
+P0uRG97 project manager for startup                                                                                                                   
+fAf845g senior product manager                                                                                                                        
+7Meq7g3 business analyst for 5 years                                                                                                                  
+P5i3D9P web developer for 4 years                                                                                                                     
+4qE8K9C systems engineer for 2 years                                                                                                                  
+1xJh34Y technical recruiter for 1 year                                                                                                                
+Ewm821E technical writer for 3 years                                                                                                                  
+o9cY4b9 data analyst for 6 years                                                                                                                      
+
+10 rows selected.
+
+INSTRUCTOR
+
+MYNAN_I OFCE_HRS                                                                                                                                      
+------- ---------------------------------------------------------------------------                                                                   
+4tJ02ih M W: 2:00pm-4:00pm and Tu, Th 1:00pm-2:30pm                                                                                                   
+aAY423P M W: 5:00pm-6:30pm and Tu, Th 1:00pm-2:30pm                                                                                                   
+45Rz124 Tu, Th 3:00pm-4:00pm and F: 10:00am-12:00pm                                                                                                   
+pP9773z M W: 8:00am-10:00am and Tu, Th 4:30pm-6:00pm                                                                                                  
+C887x04 M W: 11:00am-1:00pm and Tu, Th 3:00pm-4:30pm                                                                                                  
+3mr9Z3X M W: 4:00pm-5:30pm and Tu, Th 10:00am-11:30am                                                                                                 
+271O5Hk M W: 2:00pm-3:30pm and Tu, Th 9:00am-10:30am                                                                                                  
+o9e01Ta M W: 6:00pm-7:30pm and Tu, Th 2:00pm-3:30pm                                                                                                   
+f9y4D52 M W: 9:00am-11:00am and Tu, Th 5:00pm-6:30pm                                                                                                  
+Gj9i72E M W: 1:00pm-2:30pm and Tu, Th 8:00am-9:30am                                                                                                   
+
+10 rows selected.
+
