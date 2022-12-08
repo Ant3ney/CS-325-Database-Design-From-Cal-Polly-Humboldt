@@ -2656,8 +2656,6 @@ PROMPT INSERTING EXPERIENCE_ACCOMPLISHMENT;
 
 INSERT INTO EXPERIENCE_ACCOMPLISHMENT VALUES(
     'p9V5tk0',
-    'Developed front ends using react' 'p9V5tk0',
-    'Developed front ends using react' 'p9V5tk0',
     'Developed front ends using react'
 );
 
