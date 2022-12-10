@@ -7,10 +7,10 @@ Last modified 12/10/2022
 ## Quickstart
 
 1. login to sqlplus
-2. Run @325design.sql
-3. Run @325populate.sql
+2. Run `@325design.sql`
+3. Run `@325populate.sql`
 
-Now you can run `@325showcontents.sql or any other report or query file.
+Now you can run `@325showcontents.sql` or any other report or query file.
 
 ## Files
 
