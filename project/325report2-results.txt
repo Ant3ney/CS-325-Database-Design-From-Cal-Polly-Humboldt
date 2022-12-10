@@ -1,0 +1,103 @@
+SHOWING INSTRUCTORS AND THE CLASSES THEY TEACH
+
+Fri Dec 09                                                                                                                                                                                     page    1
+                                                                                          Instructors sections
+
+INSTRUCTOR                    TITLE                          DESCRIPTION                                                                                                                                
+----------------------------- ------------------------------ ---------------------------------------------------------------------------                                                                
+Amelia Villegas               Node.js                        Learn to use Node.js to build backend solutions for web and mobile applicat                                                                
+                                                             ions. Understand how to combine Node.js with other technologies.                                                                           
+                                                                                                                                                                                                        
+                              Node.js                        Learn to use Node.js to build backend solutions for web and mobile applicat                                                                
+                                                             ions. Understand how to combine Node.js with other technologies.                                                                           
+                                                                                                                                                                                                        
+                              SEO                            Learn the fundamentals of search engine optimization (SEO) to increase webs                                                                
+                                                             ite traffic and visibility in search engine results.                                                                                       
+                                                                                                                                                                                                        
+Eleri Walls                   Advanced Web Development       Learn advanced web development skills such as HTML, CSS, JavaScript and mor                                                                
+                                                             e to create dynamic, interactive websites.                                                                                                 
+                                                                                                                                                                                                        
+                              Advanced Web Development       Learn advanced web development skills such as HTML, CSS, JavaScript and mor                                                                
+                                                             e to create dynamic, interactive websites.                                                                                                 
+                                                                                                                                                                                                        
+                              E-commerce                     Unlock the power of the web and learn to create user-friendly and secure e-                                                                
+                                                             commerce websites and applications.                                                                                                        
+                                                                                                                                                                                                        
+Kristina Harding              E-commerce                     Unlock the power of the web and learn to create user-friendly and secure e-                                                                
+                                                             commerce websites and applications.                                                                                                        
+                                                                                                                                                                                                        
+                              Front End Frameworks           Understand the fundamentals of popular front-end frameworks such as React a                                                                
+                                                             nd Angular to build more efficient and powerful web applications.                                                                          
+                                                                                                                                                                                                        
+                              JavaScript                     Explore the fundamentals of JavaScript, including object-oriented programmi                                                                
+                                                             ng, data structures, and algorithms to develop powerful web applications.                                                                  
+                                                                                                                                                                                                        
+Nataniel Meyer                JavaScript                     Explore the fundamentals of JavaScript, including object-oriented programmi                                                                
+                                                             ng, data structures, and algorithms to develop powerful web applications.                                                                  
+                                                                                                                                                                                                        
+                              WordPress Development          Gain hands-on experience creating custom WordPress themes and plugins to bu                                                                
+                                                             ild powerful and attractive websites.                                                                                                      
+                                                                                                                                                                                                        
+                              UX/UI Design                   Develop an understanding of user experience and user interface design princ                                                                
+                                                             iples to create appealing and practical user interfaces for web and mobile                                                                 
+                                                             applications.                                                                                                                              
+                                                                                                                                                                                                        
+Nicole Lara                   Node.js                        Learn to use Node.js to build backend solutions for web and mobile applicat                                                                
+                                                             ions. Understand how to combine Node.js with other technologies.                                                                           
+                                                                                                                                                                                                        
+                              Responsive Web Design          Develop the skills and knowledge needed to create websites that are optimiz                                                                
+                                                             ed for mobile devices and other resolutions.                                                                                               
+                                                                                                                                                                                                        
+                              SEO                            Learn the fundamentals of search engine optimization (SEO) to increase webs                                                                
+                                                             ite traffic and visibility in search engine results.                                                                                       
+                                                                                                                                                                                                        
+Raheem Gallagher              WordPress Development          Gain hands-on experience creating custom WordPress themes and plugins to bu                                                                
+                                                             ild powerful and attractive websites.                                                                                                      
+                                                                                                                                                                                                        
+                              E-commerce                     Unlock the power of the web and learn to create user-friendly and secure e-                                                                
+                                                             commerce websites and applications.                                                                                                        
+                                                                                                                                                                                                        
+                              E-commerce                     Unlock the power of the web and learn to create user-friendly and secure e-                                                                
+                                                             commerce websites and applications.                                                                                                        
+                                                                                                                                                                                                        
+Sumaiya Osborn                Web Security                   Understand the principles of web security to protect business and personal                                                                 
+                                                             data from cyber threats.                                                                                                                   
+                                                                                                                                                                                                        
+                              E-commerce                     Unlock the power of the web and learn to create user-friendly and secure e-                                                                
+                                                             commerce websites and applications.                                                                                                        
+                                                                                                                                                                                                        
+                              Web Security                   Understand the principles of web security to protect business and personal                                                                 
+                                                             data from cyber threats.                                                                                                                   
+                                                                                                                                                                                                        
+Tyrone Hickman                Advanced Web Development       Learn advanced web development skills such as HTML, CSS, JavaScript and mor                                                                
+                                                             e to create dynamic, interactive websites.                                                                                                 
+                                                                                                                                                                                                        
+                              WordPress Development          Gain hands-on experience creating custom WordPress themes and plugins to bu                                                                
+                                                             ild powerful and attractive websites.                                                                                                      
+                                                                                                                                                                                                        
+                              Responsive Web Design          Develop the skills and knowledge needed to create websites that are optimiz                                                                
+                                                             ed for mobile devices and other resolutions.                                                                                               
+                                                                                                                                                                                                        
+Vivian Sykes                  UX/UI Design                   Develop an understanding of user experience and user interface design princ                                                                
+                                                             iples to create appealing and practical user interfaces for web and mobile                                                                 
+                                                             applications.                                                                                                                              
+                                                                                                                                                                                                        
+                              Front End Frameworks           Understand the fundamentals of popular front-end frameworks such as React a                                                                
+                                                             nd Angular to build more efficient and powerful web applications.                                                                          
+                                                                                                                                                                                                        
+                              UX/UI Design                   Develop an understanding of user experience and user interface design princ                                                                
+                                                             iples to create appealing and practical user interfaces for web and mobile                                                                 
+                                                             applications.                                                                                                                              
+                                                                                                                                                                                                        
+Zahraa Chandler               Responsive Web Design          Develop the skills and knowledge needed to create websites that are optimiz                                                                
+                                                             ed for mobile devices and other resolutions.                                                                                               
+                                                                                                                                                                                                        
+                              Front End Frameworks           Understand the fundamentals of popular front-end frameworks such as React a                                                                
+                                                             nd Angular to build more efficient and powerful web applications.                                                                          
+                                                                                                                                                                                                        
+                              Front End Frameworks           Understand the fundamentals of popular front-end frameworks such as React a                                                                
+                                                             nd Angular to build more efficient and powerful web applications.                                                                          
+                                                                                                                                                                                                        
+
+30 rows selected.
+

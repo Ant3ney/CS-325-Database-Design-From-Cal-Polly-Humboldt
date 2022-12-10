@@ -1,0 +1,61 @@
+Laban Tran
+Anthony Cavuoti
+CS 325 - Fall 2022
+Last Modified 12/07/2022
+Mynan_Staff(MYNAN_ID, f_name, l_name, email, phone_number, hiredate, Is_Career_Coach,
+Is_Instructor)
+Career_Coach(MYNAN_ID)
+foreign key(MYNAN_ID) references Mynan_Staff
+Career_Coach_Indus_Exp(MYNAN_ID, INDUS_EXPERIENCE)
+foreign key(MYNAN_ID) references Career_Coach
+Instructor(MYNAN_ID, ofce_hrs)
+foreign key(MYNAN_ID) references Mynan_Staff
+Instructor_Subj_Of_Exptse(MYNAN_ID, SUBJ_OF_EXPTSE)
+foreign key(MYNAN_ID) references Instructor
+Portfolio(PRTFOL_ID, url, mynan_id)
+foreign key(mynan_id) references Career_Coach
+Resume(RSME_ID, tagline, email, phone_number, address, linkedin, twitter, github, mynan_id)
+foreign key(mynan_id) references Career_Coach
+Student(STU_ID, f_name, l_name, prtfol_id, rsme_id,)
+foreign key(prtfol_id) references Portfolio
+foreign key(rsme_id) references Resume
+Student_Phone(STU_ID, PHONE_NUM)
+foreign key(STU_ID) references Student
+Student_Email(STU_ID, EMAIL)
+foreign key(STU_ID) references Student
+Course(CRS_ID, title, description)
+Course_Students(STU_ID, CRS_ID)
+foreign key(STU_ID) references Student
+foreign key(CRS_ID) references Course
+Class_Section(CLS_ID, crs_id, schedule)
+foreign key(crs_id) references Course
+Project(PRJ_ID, title, proj_desc, prj_stack, cls_id, prtfol_id, rsme_id)
+foreign key(cls_id) references Class_Section
+
+Laban Tran
+Anthony Cavuoti
+CS 325 - Fall 2022
+Last Modified 12/07/2022
+foreign key(prtfol_id) references Portfolio
+foreign key(rsme_id) references Resume
+Class_Students(STU_ID, CLS_ID)
+foreign key(STU_ID) references Student
+foreign key(CRS_ID) references Class_Section
+Accomplishments(ACP_ID, date_accomp, accomplishment, prtfol_id, rsme_id)
+foreign key( prtfol_id) references Portfolio
+foreign key(rsme_id) references Resume
+Student_Accomplishments(STU_ID, ACP_ID)
+foreign key(STU_ID) references Student
+foreign key(ACP_ID) references Accomplishments
+Class_Staff(CLS_ID, MYNAN_COACH_ID, MYNAN_INSTRUCTOR_ID)
+foreign key(CLS_ID) references Class_Section
+foreign key(MYNAN_COACH_ID) references Mynan_Staff
+foreign key( MYNAN_INSTRUCTOR_ID) references Mynan_Staff
+Experience(EXP_ID, start_date, months_worked, comp_name, ref_num, ref_name, prtfol_id,
+rsme_id)
+foreign key(prtfol_id) references Portfolio
+foreign key(rsme_id) references Resume
+Experience_Accomplishment(EXP_ID, ACCOMPLISHMENT)
+foreign key(EXP_ID) references Experience
+
+

@@ -1,0 +1,52 @@
+-- Laban Tran and Anthony Cavuoti
+-- CS 325 - Fall 2022
+-- Last modified 12/09/2022
+
+@325design.sql;
+
+@325populate.sql;
+
+SET LINESIZE 150;
+
+SET PAGESIZE 50;
+
+COL ACCOMPLISHMENT FORMAT A60;
+
+BREAK ON F_NAME SKIP 1 ON L_NAME ON EMAIL ON PHONE_NUM;
+
+SPOOL 325report1-results.txt;
+
+TTITLE "ABRIDGED RESUMEs";
+
+PROMPT SHOWING STUDENT ABRIDGED RESUME;
+
+-- Equi-joins various tables so that the only accomplishments that
+-- are shown are those that belong to there respective students
+
+SELECT
+    F_NAME,
+    L_NAME,
+    EMAIL,
+    PHONE_NUM,
+    ACCOMPLISHMENT
+FROM
+    STUDENT,
+    RESUME,
+    ACCOMPLISHMENTS,
+    STUDENT_ACCOMPLISHMENTS
+WHERE
+    STUDENT.RESME_ID = RESUME.RSME_ID
+    AND ACCOMPLISHMENTS.ACP_ID = STUDENT_ACCOMPLISHMENTS.ACP_ID
+    AND STUDENT_ACCOMPLISHMENTS.STU_ID = STUDENT.STU_ID
+ORDER BY
+    F_NAME;
+
+SPOOL OFF;
+
+SET LINESIZE 80;
+
+SET PAGESIZE 14;
+
+CLEAR BREAKS;
+
+CLEAR COLUMNS;

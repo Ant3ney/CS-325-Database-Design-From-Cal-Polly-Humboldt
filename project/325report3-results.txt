@@ -1,0 +1,117 @@
+SHOWING THE SCHEDULES OF MYNAN STUDENTS
+
+Fri Dec 09                                                                                                                                                                                     page    1
+                                                                                           Student Schedules
+
+Name                 Class                     Schedules                           Description                                                                                                          
+-------------------- ------------------------- ----------------------------------- -----------------------------------------------------------------                                                    
+Carlos Olsen         Front End Frameworks_____ M, Tu, W, Th 5:00pm - 10:00pm______ Understand the fundamentals of popular front-end frameworks such                                                     
+                                                                                   as React and Angular to build more efficient and powerful web app                                                    
+                                                                                   lications.                                                                                                           
+                                                                                                                                                                                                        
+                     WordPress Development____ M, Tu, W, Th 11:00am - 5:00pm______ Gain hands-on experience creating custom WordPress themes and plu                                                    
+                                                                                   gins to build powerful and attractive websites.                                                                      
+                                                                                                                                                                                                        
+                     JavaScript_______________ M, Tu, W, Th 7:00am - 12:00pm______ Explore the fundamentals of JavaScript, including object-oriented                                                    
+                                                                                    programming, data structures, and algorithms to develop powerful                                                    
+                                                                                    web applications.                                                                                                   
+                                                                                                                                                                                                        
+Carol Munoz          Front End Frameworks_____ M, Tu, W, Th 5:00pm - 10:00pm______ Understand the fundamentals of popular front-end frameworks such                                                     
+                                                                                   as React and Angular to build more efficient and powerful web app                                                    
+                                                                                   lications.                                                                                                           
+                                                                                                                                                                                                        
+                     Responsive Web Design____ M, Tu, W, Th 1:00pm - 6:00pm_______ Develop the skills and knowledge needed to create websites that a                                                    
+                                                                                   re optimized for mobile devices and other resolutions.                                                               
+                                                                                                                                                                                                        
+                     WordPress Development____ M, Tu, W, Th 11:00am - 5:00pm______ Gain hands-on experience creating custom WordPress themes and plu                                                    
+                                                                                   gins to build powerful and attractive websites.                                                                      
+                                                                                                                                                                                                        
+Gertrude Ponce       JavaScript_______________ M, Tu, W, Th 7:00am - 12:00pm______ Explore the fundamentals of JavaScript, including object-oriented                                                    
+                                                                                    programming, data structures, and algorithms to develop powerful                                                    
+                                                                                    web applications.                                                                                                   
+                                                                                                                                                                                                        
+                     Responsive Web Design____ M, Tu, W, Th 1:00pm - 6:00pm_______ Develop the skills and knowledge needed to create websites that a                                                    
+                                                                                   re optimized for mobile devices and other resolutions.                                                               
+                                                                                                                                                                                                        
+                     Advanced Web Development_ M, Tu, W, Th 9:00am - 2:00pm_______ Learn advanced web development skills such as HTML, CSS, JavaScri                                                    
+                                                                                   pt and more to create dynamic, interactive websites.                                                                 
+                                                                                                                                                                                                        
+Gracie Holden        JavaScript_______________ M, Tu, W, Th 7:00am - 12:00pm______ Explore the fundamentals of JavaScript, including object-oriented                                                    
+                                                                                    programming, data structures, and algorithms to develop powerful                                                    
+                                                                                    web applications.                                                                                                   
+                                                                                                                                                                                                        
+                     WordPress Development____ M, Tu, W, Th 11:00am - 5:00pm______ Gain hands-on experience creating custom WordPress themes and plu                                                    
+                                                                                   gins to build powerful and attractive websites.                                                                      
+                                                                                                                                                                                                        
+                     Advanced Web Development_ M, Tu, W, Th 9:00am - 2:00pm_______ Learn advanced web development skills such as HTML, CSS, JavaScri                                                    
+                                                                                   pt and more to create dynamic, interactive websites.                                                                 
+                                                                                                                                                                                                        
+Iestyn Victor        Advanced Web Development_ M, Tu, W, Th 9:00am - 2:00pm_______ Learn advanced web development skills such as HTML, CSS, JavaScri                                                    
+                                                                                   pt and more to create dynamic, interactive websites.                                                                 
+                                                                                                                                                                                                        
+                     JavaScript_______________ M, Tu, W, Th 7:00am - 12:00pm______ Explore the fundamentals of JavaScript, including object-oriented                                                    
+                                                                                    programming, data structures, and algorithms to develop powerful                                                    
+                                                                                    web applications.                                                                                                   
+                                                                                                                                                                                                        
+                     Front End Frameworks_____ M, Tu, W, Th 5:00pm - 10:00pm______ Understand the fundamentals of popular front-end frameworks such                                                     
+                                                                                   as React and Angular to build more efficient and powerful web app                                                    
+                                                                                   lications.                                                                                                           
+                                                                                                                                                                                                        
+Kyra Roy             Advanced Web Development_ M, Tu, W, Th 9:00am - 2:00pm_______ Learn advanced web development skills such as HTML, CSS, JavaScri                                                    
+                                                                                   pt and more to create dynamic, interactive websites.                                                                 
+                                                                                                                                                                                                        
+                     WordPress Development____ M, Tu, W, Th 11:00am - 5:00pm______ Gain hands-on experience creating custom WordPress themes and plu                                                    
+                                                                                   gins to build powerful and attractive websites.                                                                      
+                                                                                                                                                                                                        
+                     Responsive Web Design____ M, Tu, W, Th 1:00pm - 6:00pm_______ Develop the skills and knowledge needed to create websites that a                                                    
+                                                                                   re optimized for mobile devices and other resolutions.                                                               
+                                                                                                                                                                                                        
+Natalie Fernandez    WordPress Development____ M, Tu, W, Th 11:00am - 5:00pm______ Gain hands-on experience creating custom WordPress themes and plu                                                    
+                                                                                   gins to build powerful and attractive websites.                                                                      
+                                                                                                                                                                                                        
+                     Front End Frameworks_____ M, Tu, W, Th 5:00pm - 10:00pm______ Understand the fundamentals of popular front-end frameworks such                                                     
+                                                                                   as React and Angular to build more efficient and powerful web app                                                    
+                                                                                   lications.                                                                                                           
+                                                                                                                                                                                                        
+                     Advanced Web Development_ M, Tu, W, Th 9:00am - 2:00pm_______ Learn advanced web development skills such as HTML, CSS, JavaScri                                                    
+                                                                                   pt and more to create dynamic, interactive websites.                                                                 
+                                                                                                                                                                                                        
+Olly Bennett         Front End Frameworks_____ M, Tu, W, Th 5:00pm - 10:00pm______ Understand the fundamentals of popular front-end frameworks such                                                     
+                                                                                   as React and Angular to build more efficient and powerful web app                                                    
+                                                                                   lications.                                                                                                           
+                                                                                                                                                                                                        
+                     WordPress Development____ M, Tu, W, Th 11:00am - 5:00pm______ Gain hands-on experience creating custom WordPress themes and plu                                                    
+                                                                                   gins to build powerful and attractive websites.                                                                      
+                                                                                                                                                                                                        
+                     Responsive Web Design____ M, Tu, W, Th 1:00pm - 6:00pm_______ Develop the skills and knowledge needed to create websites that a                                                    
+                                                                                   re optimized for mobile devices and other resolutions.                                                               
+                                                                                                                                                                                                        
+Samara Hampton       WordPress Development____ M, Tu, W, Th 11:00am - 5:00pm______ Gain hands-on experience creating custom WordPress themes and plu                                                    
+                                                                                   gins to build powerful and attractive websites.                                                                      
+                                                                                                                                                                                                        
+                     Responsive Web Design____ M, Tu, W, Th 1:00pm - 6:00pm_______ Develop the skills and knowledge needed to create websites that a                                                    
+                                                                                   re optimized for mobile devices and other resolutions.                                                               
+                                                                                                                                                                                                        
+                     Front End Frameworks_____ M, Tu, W, Th 5:00pm - 10:00pm______ Understand the fundamentals of popular front-end frameworks such                                                     
+                                                                                   as React and Angular to build more efficient and powerful web app                                                    
+                                                                                   lications.                                                                                                           
+                                                                                                                                                                                                        
+Tianna Pollard       WordPress Development____ M, Tu, W, Th 11:00am - 5:00pm______ Gain hands-on experience creating custom WordPress themes and plu                                                    
+                                                                                   gins to build powerful and attractive websites.                                                                      
+                                                                                                                                                                                                        
+
+Fri Dec 09                                                                                                                                                                                     page    2
+                                                                                           Student Schedules
+
+Name                 Class                     Schedules                           Description                                                                                                          
+-------------------- ------------------------- ----------------------------------- -----------------------------------------------------------------                                                    
+Tianna Pollard       Front End Frameworks_____ M, Tu, W, Th 5:00pm - 10:00pm______ Understand the fundamentals of popular front-end frameworks such                                                     
+                                                                                   as React and Angular to build more efficient and powerful web app                                                    
+                                                                                   lications.                                                                                                           
+                                                                                                                                                                                                        
+                     Responsive Web Design____ M, Tu, W, Th 1:00pm - 6:00pm_______ Develop the skills and knowledge needed to create websites that a                                                    
+                                                                                   re optimized for mobile devices and other resolutions.                                                               
+                                                                                                                                                                                                        
+
+30 rows selected.
+

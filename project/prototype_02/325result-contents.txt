@@ -1,0 +1,741 @@
+MYNAN_STAFF
+
+MYNAN_I F_NAME         L_NAME         IS_CAREER_COACH IS_INSTRUCTOR                                                                                   
+------- -------------- -------------- --------------- -------------                                                                                   
+Qb5570t Harry          Bonilla                      1             0                                                                                   
+gmQ1L41 Seren          Gallagher                    1             0                                                                                   
+P0uRG97 Kyla           Moreno                       1             0                                                                                   
+fAf845g Katy           Mann                         1             0                                                                                   
+7Meq7g3 Grace          Baird                        1             0                                                                                   
+P5i3D9P Vera           Day                          1             0                                                                                   
+4qE8K9C Autumn         Mccoy                        1             0                                                                                   
+1xJh34Y Felix          Shannon                      1             0                                                                                   
+Ewm821E Hope           Thornton                     1             0                                                                                   
+o9cY4b9 Zachary        Proctor                      1             0                                                                                   
+4tJ02ih Eleri          Walls                        0             1                                                                                   
+
+MYNAN_I F_NAME         L_NAME         IS_CAREER_COACH IS_INSTRUCTOR                                                                                   
+------- -------------- -------------- --------------- -------------                                                                                   
+aAY423P Nataniel       Meyer                        0             1                                                                                   
+45Rz124 Nicole         Lara                         0             1                                                                                   
+pP9773z Vivian         Sykes                        0             1                                                                                   
+C887x04 Kristina       Harding                      0             1                                                                                   
+3mr9Z3X Amelia         Villegas                     0             1                                                                                   
+271O5Hk Zahraa         Chandler                     0             1                                                                                   
+o9e01Ta Raheem         Gallagher                    0             1                                                                                   
+f9y4D52 Sumaiya        Osborn                       0             1                                                                                   
+Gj9i72E Tyrone         Hickman                      0             1                                                                                   
+
+20 rows selected.
+
+CAREER_COACH
+
+MYNAN_I                                                                                                                                               
+-------                                                                                                                                               
+Qb5570t                                                                                                                                               
+gmQ1L41                                                                                                                                               
+P0uRG97                                                                                                                                               
+fAf845g                                                                                                                                               
+7Meq7g3                                                                                                                                               
+P5i3D9P                                                                                                                                               
+4qE8K9C                                                                                                                                               
+1xJh34Y                                                                                                                                               
+Ewm821E                                                                                                                                               
+o9cY4b9                                                                                                                                               
+
+10 rows selected.
+
+CAREER_COACH_INDUS_EXP
+
+MYNAN_I INDUS_EXPERIENCE                                                                                                                              
+------- ----------------------------------------                                                                                                      
+Qb5570t 3 year software analyst                                                                                                                       
+gmQ1L41 quality assurance engineer for 2 years                                                                                                        
+P0uRG97 project manager for startup                                                                                                                   
+fAf845g senior product manager                                                                                                                        
+7Meq7g3 business analyst for 5 years                                                                                                                  
+P5i3D9P web developer for 4 years                                                                                                                     
+4qE8K9C systems engineer for 2 years                                                                                                                  
+1xJh34Y technical recruiter for 1 year                                                                                                                
+Ewm821E technical writer for 3 years                                                                                                                  
+o9cY4b9 data analyst for 6 years                                                                                                                      
+
+10 rows selected.
+
+INSTRUCTOR
+
+MYNAN_I OFCE_HRS                                                                                                                                      
+------- ---------------------------------------------------------------------------                                                                   
+4tJ02ih M W: 2:00pm-4:00pm and Tu, Th 1:00pm-2:30pm                                                                                                   
+aAY423P M W: 5:00pm-6:30pm and Tu, Th 1:00pm-2:30pm                                                                                                   
+45Rz124 Tu, Th 3:00pm-4:00pm and F: 10:00am-12:00pm                                                                                                   
+pP9773z M W: 8:00am-10:00am and Tu, Th 4:30pm-6:00pm                                                                                                  
+C887x04 M W: 11:00am-1:00pm and Tu, Th 3:00pm-4:30pm                                                                                                  
+3mr9Z3X M W: 4:00pm-5:30pm and Tu, Th 10:00am-11:30am                                                                                                 
+271O5Hk M W: 2:00pm-3:30pm and Tu, Th 9:00am-10:30am                                                                                                  
+o9e01Ta M W: 6:00pm-7:30pm and Tu, Th 2:00pm-3:30pm                                                                                                   
+f9y4D52 M W: 9:00am-11:00am and Tu, Th 5:00pm-6:30pm                                                                                                  
+Gj9i72E M W: 1:00pm-2:30pm and Tu, Th 8:00am-9:30am                                                                                                   
+
+10 rows selected.
+
+INSTRUCTOR_SUBJ_OF_EXPTSE
+
+MYNAN_I SUBJ_OF_EXPTSE                                                                                                                                
+------- --------------------------------------------------                                                                                            
+aAY423P Front-end Development                                                                                                                         
+45Rz124 Back-end Development                                                                                                                          
+pP9773z Database Design and Administration                                                                                                            
+C887x04 UX/UI Design                                                                                                                                  
+3mr9Z3X Content Management Systems (CMS)                                                                                                              
+271O5Hk Responsive Design                                                                                                                             
+o9e01Ta E-commerce Development                                                                                                                        
+o9e01Ta Content Management Systems (CMS)                                                                                                              
+o9e01Ta Search Engine Optimization (SEO)                                                                                                              
+3mr9Z3X Web Hosting and Server Management                                                                                                             
+3mr9Z3X Search Engine Optimization (SEO)                                                                                                              
+
+MYNAN_I SUBJ_OF_EXPTSE                                                                                                                                
+------- --------------------------------------------------                                                                                            
+pP9773z Back-end Development                                                                                                                          
+pP9773z Web Animation and Multimedia Integration                                                                                                      
+pP9773z Custom Web Application Development                                                                                                            
+f9y4D52 Social Media Integration and Marketing                                                                                                        
+Gj9i72E Website Analytics and Testing                                                                                                                 
+Gj9i72E Virtual Reality Development                                                                                                                   
+f9y4D52 Front-end Development                                                                                                                         
+f9y4D52 Artificial Intelligence                                                                                                                       
+271O5Hk Mobile App Development                                                                                                                        
+271O5Hk Front-end Development                                                                                                                         
+
+21 rows selected.
+
+PORTFOLIO
+
+PRTFOL_ URL                                                MYNAN_I                                                                                    
+------- -------------------------------------------------- -------                                                                                    
+8HkX6X9 https://www.codejourney.net/1778                   Qb5570t                                                                                    
+6PF3o9J https://buildbetterwebsites.net/3pKG4y7            gmQ1L41                                                                                    
+9wMI09M https://www.awesome-webdev.com/gY11Bm0             P0uRG97                                                                                    
+2x892PK http://www.webdevportfolio.com/04WBhM1             fAf845g                                                                                    
+Fh53W7Q http://www.webdev-solutions.net/k9I2R8G            7Meq7g3                                                                                    
+2K2s21N http://www.webdesignerprofiles.com/SYr12m7         P5i3D9P                                                                                    
+Q7k08tT https://www.webdevportfolio.org/s626Ulu            4qE8K9C                                                                                    
+lK0608u https://www.webdev-showcase.com/s626Ulu            1xJh34Y                                                                                    
+uKCZ482 https://www.portfoliocreator.com/pzxjo             Ewm821E                                                                                    
+C221MBb http://www.webdevportfolio.me/NEwm234              o9cY4b9                                                                                    
+
+10 rows selected.
+
+RESUME
+
+EMAIL                      PHONE_NUM LINKEDIN                                                                                                         
+------------------------- ---------- ----------------------------------------                                                                         
+victor@gmail.com          7247507846 https://www.linkedin.com/in/3058387995                                                                           
+roy@gmail.com             9039334625 https://www.linkedin.com/in/098764323                                                                            
+holden@gmail.com          3374090556 https://www.linkedin.com/in/908374987                                                                            
+hampton@gmail.com         7283713204 https://www.linkedin.com/in/275987456                                                                            
+munoz@gmail.com           4953036636 https://www.linkedin.com/in/745623984                                                                            
+olsen@gmail.com           8743219463 https://www.linkedin.com/in/098765432                                                                            
+ponce@gmail.com           7497092597 https://www.linkedin.com/in/345678901                                                                            
+fernandez@gmail.com        844309282 https://www.linkedin.com/in/543219876                                                                            
+pollard@gmail.com         5755783039 https://www.linkedin.com/in/767890234                                                                            
+bennett@gmail.com         8959688192 https://www.linkedin.com/in/098765432                                                                            
+
+10 rows selected.
+
+STUDENT
+
+STU_ID  F_NAME         L_NAME         PRTFOL_ RESME_I                                                                                                 
+------- -------------- -------------- ------- -------                                                                                                 
+1M17b5U Iestyn         Victor         8HkX6X9 42BqoM4                                                                                                 
+2M17b5B Kyra           Roy            6PF3o9J 58rI5j4                                                                                                 
+747Hw9u Gracie         Holden         C221MBb X6hKY74                                                                                                 
+3Nvb510 Samara         Hampton        9wMI09M n0T816w                                                                                                 
+1qqR906 Carol          Munoz          2x892PK b8RL7K2                                                                                                 
+60IWM6t Carlos         Olsen          Fh53W7Q 0Wgr74p                                                                                                 
+Y5R96CL Gertrude       Ponce          2K2s21N zG085SU                                                                                                 
+0v4Q2Pq Natalie        Fernandez      lK0608u 1lY66iM                                                                                                 
+3xR36CG Tianna         Pollard        Q7k08tT 7B4pk18                                                                                                 
+YFFM917 Olly           Bennett        uKCZ482 WQP20b8                                                                                                 
+
+10 rows selected.
+
+STUDENT_PHONE
+
+STU_ID   PHONE_NUM                                                                                                                                    
+------- ----------                                                                                                                                    
+1M17b5U 1182565744                                                                                                                                    
+2M17b5B 1182535744                                                                                                                                    
+747Hw9u  316810923                                                                                                                                    
+3Nvb510 2464547518                                                                                                                                    
+1qqR906 3140638492                                                                                                                                    
+60IWM6t 2692482633                                                                                                                                    
+Y5R96CL 8834118128                                                                                                                                    
+0v4Q2Pq 4416395913                                                                                                                                    
+3xR36CG 1880171247                                                                                                                                    
+YFFM917 3067325053                                                                                                                                    
+3Nvb510 2297693054                                                                                                                                    
+
+STU_ID   PHONE_NUM                                                                                                                                    
+------- ----------                                                                                                                                    
+1qqR906 4878394714                                                                                                                                    
+60IWM6t 4455248174                                                                                                                                    
+Y5R96CL 9852138245                                                                                                                                    
+0v4Q2Pq 3021517866                                                                                                                                    
+3xR36CG 6419714043                                                                                                                                    
+YFFM917 4912273900                                                                                                                                    
+Y5R96CL  336203073                                                                                                                                    
+0v4Q2Pq 4336222509                                                                                                                                    
+3xR36CG 8339348741                                                                                                                                    
+YFFM917 9997392860                                                                                                                                    
+
+21 rows selected.
+
+STUDENT_EMAIL
+
+STU_ID  EMAIL                                                                                                                                         
+------- --------------------------------------------------                                                                                            
+1M17b5U victor@gmail.com                                                                                                                              
+2M17b5B roy@gmail.com                                                                                                                                 
+747Hw9u holden@gmail.com                                                                                                                              
+3Nvb510 hampton@gmail.com                                                                                                                             
+1qqR906 munoz@gmail.com                                                                                                                               
+60IWM6t olsen@gmail.com                                                                                                                               
+Y5R96CL ponce@gmail.com                                                                                                                               
+0v4Q2Pq natalie@gmail.com                                                                                                                             
+3xR36CG pollard@gmail.com                                                                                                                             
+YFFM917 bennett@gmail.com                                                                                                                             
+2M17b5B nmdoy@gmail.com                                                                                                                               
+
+STU_ID  EMAIL                                                                                                                                         
+------- --------------------------------------------------                                                                                            
+747Hw9u calsoy@gmail.com                                                                                                                              
+3Nvb510 areoi@gmail.com                                                                                                                               
+1qqR906 blamo@gmail.com                                                                                                                               
+60IWM6t diaznutez@gmail.com                                                                                                                           
+Y5R96CL orloman@gmail.com                                                                                                                             
+0v4Q2Pq thecrazy@gmail.com                                                                                                                            
+3xR36CG golord@gmail.com                                                                                                                              
+
+18 rows selected.
+
+COURSE
+
+CRS_ID  TITLE                                                                                                                                         
+------- --------------------------------------------------                                                                                            
+0000001 Advanced Web Development                                                                                                                      
+0000002 WordPress Development                                                                                                                         
+0000003 Responsive Web Design                                                                                                                         
+0000004 Front End Frameworks                                                                                                                          
+0000005 JavaScript                                                                                                                                    
+0000006 Node.js                                                                                                                                       
+0000007 UX/UI Design                                                                                                                                  
+0000008 E-commerce                                                                                                                                    
+0000009 Web Security                                                                                                                                  
+0000010 SEO                                                                                                                                           
+
+10 rows selected.
+
+COURSE_STUDENTS
+
+STU_ID  CRS_ID                                                                                                                                        
+------- -------                                                                                                                                       
+1M17b5U 0000004                                                                                                                                       
+2M17b5B 0000004                                                                                                                                       
+747Hw9u 0000004                                                                                                                                       
+3Nvb510 0000004                                                                                                                                       
+1qqR906 0000004                                                                                                                                       
+60IWM6t 0000004                                                                                                                                       
+Y5R96CL 0000004                                                                                                                                       
+0v4Q2Pq 0000004                                                                                                                                       
+3xR36CG 0000004                                                                                                                                       
+YFFM917 0000004                                                                                                                                       
+1M17b5U 0000009                                                                                                                                       
+
+STU_ID  CRS_ID                                                                                                                                        
+------- -------                                                                                                                                       
+2M17b5B 0000009                                                                                                                                       
+747Hw9u 0000009                                                                                                                                       
+3Nvb510 0000009                                                                                                                                       
+1qqR906 0000009                                                                                                                                       
+60IWM6t 0000009                                                                                                                                       
+Y5R96CL 0000009                                                                                                                                       
+0v4Q2Pq 0000009                                                                                                                                       
+3xR36CG 0000009                                                                                                                                       
+YFFM917 0000009                                                                                                                                       
+1M17b5U 0000007                                                                                                                                       
+2M17b5B 0000007                                                                                                                                       
+
+STU_ID  CRS_ID                                                                                                                                        
+------- -------                                                                                                                                       
+747Hw9u 0000007                                                                                                                                       
+3Nvb510 0000007                                                                                                                                       
+1qqR906 0000007                                                                                                                                       
+60IWM6t 0000007                                                                                                                                       
+Y5R96CL 0000007                                                                                                                                       
+0v4Q2Pq 0000007                                                                                                                                       
+3xR36CG 0000007                                                                                                                                       
+YFFM917 0000007                                                                                                                                       
+1M17b5U 0000001                                                                                                                                       
+2M17b5B 0000002                                                                                                                                       
+747Hw9u 0000003                                                                                                                                       
+
+STU_ID  CRS_ID                                                                                                                                        
+------- -------                                                                                                                                       
+3Nvb510 0000005                                                                                                                                       
+1qqR906 0000006                                                                                                                                       
+0v4Q2Pq 0000001                                                                                                                                       
+2M17b5B 0000010                                                                                                                                       
+747Hw9u 0000008                                                                                                                                       
+
+38 rows selected.
+
+CLASS_SECTION
+
+CLS_ID  CRS_ID  SCHEDULE                                                                                                                              
+------- ------- ---------------------------------------------------------------------------                                                           
+4lg39f8 0000001 M, Tu, W, Th 9:00am - 2:00pm                                                                                                          
+2H5w0So 0000002 M, Tu, W, Th 11:00am - 5:00pm                                                                                                         
+P2FOp53 0000003 M, Tu, W, Th 1:00pm - 6:00pm                                                                                                          
+9I3q2dt 0000004 M, Tu, W, Th 5:00pm - 10:00pm                                                                                                         
+9c08Wi6 0000005 M, Tu, W, Th 7:00am - 12:00pm                                                                                                         
+xO988LF 0000006 M, Tu, W, Th 9:00am - 2:00pm                                                                                                          
+0mC1HP3 0000007 M, Tu, W, Th 11:00am - 5:00pm                                                                                                         
+a3XQ271 0000008 M, Tu, W, Th 1:00pm - 6:00pm                                                                                                          
+83XQ27g 0000009 M, Tu, W, Th 3:00pm - 8:00pm                                                                                                          
+h3XQ272 0000010 M, Tu, W, Th 5:00pm - 10:00pm                                                                                                         
+Y1157f8 0000001 M, Tu, W, Th 7:00pm - 12:00am                                                                                                         
+
+CLS_ID  CRS_ID  SCHEDULE                                                                                                                              
+------- ------- ---------------------------------------------------------------------------                                                           
+oN1P22b 0000002 M, Tu, W, Th 9:00am - 2:00pm                                                                                                          
+3J293cO 0000003 M, Tu, W, Th 11:00am - 5:00pm                                                                                                         
+fyAm168 0000004 M, Tu, W, Th 1:00pm - 6:00pm                                                                                                          
+d6SS0R5 0000005 M, Tu, W, Th 3:00pm - 8:00pm                                                                                                          
+6bBB694 0000006 M, Tu, W, Th 5:00pm - 10:00pm                                                                                                         
+6BHZ07t 0000007 M, Tu, W, Th 3:00pm - 8:00pm                                                                                                          
+Lr3X9K5 0000008 M, Tu, W, Th 1:00pm - 6:00pm                                                                                                          
+70wA32a 0000009 M, Tu, W, Th 11:00am - 5:00pm                                                                                                         
+c8J8C37 0000010 M, Tu, W, Th 9:00am - 2:00pm                                                                                                          
+387pUyP 0000001 M, Tu, W, Th 7:00pm - 12:00am                                                                                                         
+C753TcG 0000002 M, Tu, W, Th 5:00pm - 10:00pm                                                                                                         
+
+CLS_ID  CRS_ID  SCHEDULE                                                                                                                              
+------- ------- ---------------------------------------------------------------------------                                                           
+Gh6t23D 0000003 M, Tu, W, Th 3:00pm - 8:00pm                                                                                                          
+WHt4X51 0000004 M, Tu, W, Th 1:00pm - 6:00pm                                                                                                          
+gHt4X52 0000005 M, Tu, W, Th 11:00am - 5:00pm                                                                                                         
+jZ60q7v 0000006 M, Tu, W, Th 9:00am - 2:00pm                                                                                                          
+271Esx7 0000007 M, Tu, W, Th 7:00am - 12:00pm                                                                                                         
+735I8mO 0000008 M, Tu, W, Th 5:00pm - 10:00pm                                                                                                         
+kb3Q05a 0000009 M, Tu, W, Th 3:00pm - 8:00pm                                                                                                          
+29DC1Ll 0000010 M, Tu, W, Th 1:00pm - 6:00pm                                                                                                          
+
+30 rows selected.
+
+PROJECT
+
+TITLE                                                                                                                                                 
+---------------------------------------------------------------------------                                                                           
+PROJ_DESC                                                                                                                                             
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Mortgage calculator web app                                                                                                                           
+A mortgage calculator that anyone can use to easily plan their mortgages out.                                                                         
+                                                                                                                                                      
+Online Shopping Cart                                                                                                                                  
+An online shopping cart application that allows customers to easily purchase products.                                                                
+                                                                                                                                                      
+Recipe App                                                                                                                                            
+An app to store and find recipes, and share them with others.                                                                                         
+                                                                                                                                                      
+
+TITLE                                                                                                                                                 
+---------------------------------------------------------------------------                                                                           
+PROJ_DESC                                                                                                                                             
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Image Uploader                                                                                                                                        
+A web-based application that allows users to upload and store images.                                                                                 
+                                                                                                                                                      
+Job Board                                                                                                                                             
+A site where employers can post jobs and job seekers can find them.                                                                                   
+                                                                                                                                                      
+Online Education Platform                                                                                                                             
+An online education platform that allows users to learn from experts in a variety of fields.                                                          
+                                                                                                                                                      
+
+TITLE                                                                                                                                                 
+---------------------------------------------------------------------------                                                                           
+PROJ_DESC                                                                                                                                             
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Social Networking Site                                                                                                                                
+A web application that allows people to connect with others, share photos and stories, and collaborate.                                               
+                                                                                                                                                      
+Event Management System                                                                                                                               
+A web-based application to facilitate the planning, execution, and tracking of events.                                                                
+                                                                                                                                                      
+Video Streaming Platform                                                                                                                              
+An online video streaming platform for users to watch and share videos.                                                                               
+                                                                                                                                                      
+
+TITLE                                                                                                                                                 
+---------------------------------------------------------------------------                                                                           
+PROJ_DESC                                                                                                                                             
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Employee Management System                                                                                                                            
+A web-based application to manage employee information, payroll, and scheduling.                                                                      
+                                                                                                                                                      
+Online Payment System                                                                                                                                 
+An online payment system that allows users to securely make and receive payments.                                                                     
+                                                                                                                                                      
+Collaborative Document Editor                                                                                                                         
+A web-based platform to share and store documents, images, and other files.                                                                           
+                                                                                                                                                      
+
+TITLE                                                                                                                                                 
+---------------------------------------------------------------------------                                                                           
+PROJ_DESC                                                                                                                                             
+------------------------------------------------------------------------------------------------------------------------------------------------------
+File Sharing Platform                                                                                                                                 
+A web-based platform to share and store documents, images, and other files.                                                                           
+                                                                                                                                                      
+Crowdfunding Platform                                                                                                                                 
+An online platform to help people crowdfund projects.                                                                                                 
+                                                                                                                                                      
+Website Builder                                                                                                                                       
+A web-based application to help users easily create and build their own websites.                                                                     
+                                                                                                                                                      
+
+TITLE                                                                                                                                                 
+---------------------------------------------------------------------------                                                                           
+PROJ_DESC                                                                                                                                             
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Customer Relationship Management System                                                                                                               
+A web-based application to help businesses track customer interactions and relationships.                                                             
+                                                                                                                                                      
+Online Scheduling System                                                                                                                              
+A web-based system to help users manage appointments and other events.                                                                                
+                                                                                                                                                      
+Task Management System                                                                                                                                
+A web-based application to help users manage tasks, assignments, and projects.                                                                        
+                                                                                                                                                      
+
+TITLE                                                                                                                                                 
+---------------------------------------------------------------------------                                                                           
+PROJ_DESC                                                                                                                                             
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Network Monitoring System                                                                                                                             
+A web-based system to help users monitor and secure their networks.                                                                                   
+                                                                                                                                                      
+Online Booking System                                                                                                                                 
+An online booking system that allows customers to book services and appointments.                                                                     
+                                                                                                                                                      
+Mortgage calculator web app                                                                                                                           
+A mortgage calculator that anyone can use to easily plan their mortgages out.                                                                         
+                                                                                                                                                      
+
+TITLE                                                                                                                                                 
+---------------------------------------------------------------------------                                                                           
+PROJ_DESC                                                                                                                                             
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Online Shopping Cart                                                                                                                                  
+An online shopping cart application that allows customers to easily purchase products.                                                                
+                                                                                                                                                      
+Recipe App                                                                                                                                            
+An app to store and find recipes, and share them with others.                                                                                         
+                                                                                                                                                      
+Image Uploader                                                                                                                                        
+A web-based application that allows users to upload and store images.                                                                                 
+                                                                                                                                                      
+
+TITLE                                                                                                                                                 
+---------------------------------------------------------------------------                                                                           
+PROJ_DESC                                                                                                                                             
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Job Board                                                                                                                                             
+A site where employers can post jobs and job seekers can find them.                                                                                   
+                                                                                                                                                      
+Online Education Platform                                                                                                                             
+An online education platform that allows users to learn from experts in a variety of fields.                                                          
+                                                                                                                                                      
+Social Networking Site                                                                                                                                
+A web application that allows people to connect with others, share photos and stories, and collaborate.                                               
+                                                                                                                                                      
+
+TITLE                                                                                                                                                 
+---------------------------------------------------------------------------                                                                           
+PROJ_DESC                                                                                                                                             
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Event Management System                                                                                                                               
+A web-based application to facilitate the planning, execution, and tracking of events.                                                                
+                                                                                                                                                      
+Video Streaming Platform                                                                                                                              
+An online video streaming platform for users to watch and share videos.                                                                               
+                                                                                                                                                      
+Online Payment System                                                                                                                                 
+An online payment system that allows users to securely make and receive payments.                                                                     
+                                                                                                                                                      
+
+30 rows selected.
+
+CLASS_STUDENTS
+
+STU_ID  CLS_ID                                                                                                                                        
+------- -------                                                                                                                                       
+1M17b5U 4lg39f8                                                                                                                                       
+2M17b5B 4lg39f8                                                                                                                                       
+747Hw9u 4lg39f8                                                                                                                                       
+3Nvb510 2H5w0So                                                                                                                                       
+1qqR906 P2FOp53                                                                                                                                       
+60IWM6t 9I3q2dt                                                                                                                                       
+Y5R96CL 9c08Wi6                                                                                                                                       
+0v4Q2Pq 4lg39f8                                                                                                                                       
+3xR36CG 2H5w0So                                                                                                                                       
+YFFM917 P2FOp53                                                                                                                                       
+1M17b5U 9I3q2dt                                                                                                                                       
+
+STU_ID  CLS_ID                                                                                                                                        
+------- -------                                                                                                                                       
+2M17b5B 2H5w0So                                                                                                                                       
+747Hw9u 2H5w0So                                                                                                                                       
+3Nvb510 9I3q2dt                                                                                                                                       
+1qqR906 9I3q2dt                                                                                                                                       
+60IWM6t 9c08Wi6                                                                                                                                       
+Y5R96CL 4lg39f8                                                                                                                                       
+0v4Q2Pq 2H5w0So                                                                                                                                       
+3xR36CG 9I3q2dt                                                                                                                                       
+YFFM917 9I3q2dt                                                                                                                                       
+1M17b5U 9c08Wi6                                                                                                                                       
+2M17b5B P2FOp53                                                                                                                                       
+
+STU_ID  CLS_ID                                                                                                                                        
+------- -------                                                                                                                                       
+747Hw9u 9c08Wi6                                                                                                                                       
+3Nvb510 P2FOp53                                                                                                                                       
+1qqR906 2H5w0So                                                                                                                                       
+60IWM6t 2H5w0So                                                                                                                                       
+Y5R96CL P2FOp53                                                                                                                                       
+0v4Q2Pq 9I3q2dt                                                                                                                                       
+3xR36CG P2FOp53                                                                                                                                       
+YFFM917 2H5w0So                                                                                                                                       
+
+30 rows selected.
+
+ACCOMPLISHMENTS
+
+DATE_ACCO ACCOMPLISHMENT                                                                                                                              
+--------- ---------------------------------------------------------------------------                                                                 
+27-OCT-22 Learned the basics of HTML and CSS                                                                                                          
+09-NOV-22 Built a simple, static website                                                                                                              
+24-NOV-22 Practiced writing semantic markup                                                                                                           
+18-OCT-22 Learned about Flexbox and Grid layouts                                                                                                      
+13-SEP-22 Practiced responsive web design                                                                                                             
+09-SEP-22 Built a simple navigation bar                                                                                                               
+18-OCT-22 Learned about JavaScript fundamentals                                                                                                       
+13-SEP-22 Practiced writing basic functions                                                                                                           
+16-NOV-22 Built an interactive form                                                                                                                   
+01-OCT-22 Learned about jQuery and AJAX                                                                                                               
+24-SEP-22 Practiced writing AJAX requests                                                                                                             
+
+DATE_ACCO ACCOMPLISHMENT                                                                                                                              
+--------- ---------------------------------------------------------------------------                                                                 
+13-NOV-22 Built a basic chatbot                                                                                                                       
+10-SEP-22 Learned about object-oriented programming                                                                                                   
+31-OCT-22 Practiced writing classes and objects                                                                                                       
+28-NOV-22 Built a simple calculator                                                                                                                   
+25-OCT-22 Pair programed with peers                                                                                                                   
+25-NOV-22 Practice communication via in class presentation                                                                                            
+30-OCT-22 Researched and implemented new technologies                                                                                                 
+27-OCT-22 Refactored existing code                                                                                                                    
+20-OCT-22 Fixed bugs in existing code                                                                                                                 
+22-NOV-22 Built a basic web application                                                                                                               
+23-NOV-22 Learned about the Model-View-Controller (MVC) architecture                                                                                  
+
+DATE_ACCO ACCOMPLISHMENT                                                                                                                              
+--------- ---------------------------------------------------------------------------                                                                 
+25-OCT-22 Practiced writing MVC code                                                                                                                  
+20-OCT-22 Built a simple web API                                                                                                                      
+24-OCT-22 Learned about security best practices                                                                                                       
+02-OCT-22 Practiced implementing security measures                                                                                                    
+28-SEP-22 Learned about security best practices                                                                                                       
+13-SEP-22 Built a simple web API                                                                                                                      
+
+28 rows selected.
+
+STUDENT_ACCOMPLISHMENTS
+
+STU_ID  ACP_ID                                                                                                                                        
+------- -------                                                                                                                                       
+1M17b5U 273Dz6b                                                                                                                                       
+2M17b5B ug06Ux8                                                                                                                                       
+747Hw9u 87FY7zh                                                                                                                                       
+3Nvb510 Yi8H391                                                                                                                                       
+1qqR906 u4v75J8                                                                                                                                       
+60IWM6t 95aSXw5                                                                                                                                       
+Y5R96CL 7Jc6Z1w                                                                                                                                       
+0v4Q2Pq 93R8zbb                                                                                                                                       
+3xR36CG R7d4T27                                                                                                                                       
+YFFM917 R6c7K16                                                                                                                                       
+1M17b5U 23k2Z53                                                                                                                                       
+
+STU_ID  ACP_ID                                                                                                                                        
+------- -------                                                                                                                                       
+2M17b5B z940jWk                                                                                                                                       
+747Hw9u gK839Gv                                                                                                                                       
+3Nvb510 Gq9335Y                                                                                                                                       
+1qqR906 qU4u33r                                                                                                                                       
+60IWM6t Wg44L9N                                                                                                                                       
+Y5R96CL 98Vb515                                                                                                                                       
+0v4Q2Pq 4FO8Nd1                                                                                                                                       
+3xR36CG Fw323Qn                                                                                                                                       
+YFFM917 X451in6                                                                                                                                       
+1M17b5U 1bz99U7                                                                                                                                       
+2M17b5B 75yh5Dr                                                                                                                                       
+
+STU_ID  ACP_ID                                                                                                                                        
+------- -------                                                                                                                                       
+747Hw9u 050KOj3                                                                                                                                       
+3Nvb510 4Z8s942                                                                                                                                       
+1qqR906 aB28c5c                                                                                                                                       
+60IWM6t 4241oSb                                                                                                                                       
+Y5R96CL 7336Ahf                                                                                                                                       
+0v4Q2Pq I1T2u7j                                                                                                                                       
+
+28 rows selected.
+
+CLASS_STAFF
+
+CLS_ID  MYNAN_C MYNAN_I                                                                                                                               
+------- ------- -------                                                                                                                               
+4lg39f8 Qb5570t 4tJ02ih                                                                                                                               
+2H5w0So gmQ1L41 aAY423P                                                                                                                               
+P2FOp53 P0uRG97 45Rz124                                                                                                                               
+9I3q2dt fAf845g pP9773z                                                                                                                               
+9c08Wi6 7Meq7g3 C887x04                                                                                                                               
+xO988LF P5i3D9P 3mr9Z3X                                                                                                                               
+0mC1HP3 4qE8K9C 271O5Hk                                                                                                                               
+a3XQ271 1xJh34Y o9e01Ta                                                                                                                               
+a3XQ271 Ewm821E f9y4D52                                                                                                                               
+a3XQ271 o9cY4b9 Gj9i72E                                                                                                                               
+Y1157f8 Qb5570t 4tJ02ih                                                                                                                               
+
+CLS_ID  MYNAN_C MYNAN_I                                                                                                                               
+------- ------- -------                                                                                                                               
+oN1P22b gmQ1L41 aAY423P                                                                                                                               
+3J293cO P0uRG97 45Rz124                                                                                                                               
+fyAm168 fAf845g pP9773z                                                                                                                               
+d6SS0R5 7Meq7g3 C887x04                                                                                                                               
+6bBB694 P5i3D9P 3mr9Z3X                                                                                                                               
+6BHZ07t 4qE8K9C 271O5Hk                                                                                                                               
+Lr3X9K5 1xJh34Y o9e01Ta                                                                                                                               
+70wA32a Ewm821E f9y4D52                                                                                                                               
+c8J8C37 o9cY4b9 Gj9i72E                                                                                                                               
+387pUyP Qb5570t 4tJ02ih                                                                                                                               
+C753TcG gmQ1L41 aAY423P                                                                                                                               
+
+CLS_ID  MYNAN_C MYNAN_I                                                                                                                               
+------- ------- -------                                                                                                                               
+Gh6t23D P0uRG97 45Rz124                                                                                                                               
+WHt4X51 fAf845g pP9773z                                                                                                                               
+WHt4X51 7Meq7g3 C887x04                                                                                                                               
+jZ60q7v P5i3D9P 3mr9Z3X                                                                                                                               
+271Esx7 4qE8K9C 271O5Hk                                                                                                                               
+735I8mO 1xJh34Y o9e01Ta                                                                                                                               
+kb3Q05a Ewm821E f9y4D52                                                                                                                               
+29DC1Ll o9cY4b9 Gj9i72E                                                                                                                               
+
+30 rows selected.
+
+EXPERIENCE
+
+EXP_ID  START_DAT MONTHS_WORKED COMP_NAME                    REF_NUM REF_NAME                  PRTFOL_ RSME_ID                                        
+------- --------- ------------- ------------------------- ---------- ------------------------- ------- -------                                        
+p9V5tk0 30-JUN-17            23 Amazon                    2897215893 Seth Reilly               8HkX6X9 42BqoM4                                        
+xC24576 08-JUL-17            31 Apple                     5420504008 Bethan Mcconnell          8HkX6X9 42BqoM4                                        
+W2Ov752 09-JAN-17            41 Alphabet Inc              6695500006 Penelope Camacho          C221MBb X6hKY74                                        
+7S75uVn 28-MAY-16            20 Microsoft                 6093615352 Cindy Johnston            9wMI09M n0T816w                                        
+3x0w48T 22-FEB-16             4 Samsung Group             6946718448 Edie Rich                 9wMI09M n0T816w                                        
+ruZf809 15-NOV-16            22 Tencent Holdings          7929928463 Lukas Hayes               9wMI09M n0T816w                                        
+ZPj814Y 26-APR-17             9 Meta Platforms            8680531910 Nora Mays                 2K2s21N zG085SU                                        
+VdT195V 01-AUG-17            39 Cisco Systems             8022946617 Cassius Paul              Q7k08tT 7B4pk18                                        
+10EXm4j 17-MAR-17            39 Oracle Corporation        2810578834 Kaleb Harvey              Q7k08tT 7B4pk18                                        
+027AwoO 21-JAN-17            40 Broadcom Inc              2803566869 Edwin Leach               Q7k08tT 7B4pk18                                        
+ry74oI6 31-JUL-17            23 SAP                       3280496896 Coral Fox                 Q7k08tT 7B4pk18                                        
+
+EXP_ID  START_DAT MONTHS_WORKED COMP_NAME                    REF_NUM REF_NAME                  PRTFOL_ RSME_ID                                        
+------- --------- ------------- ------------------------- ---------- ------------------------- ------- -------                                        
+W322Iyr 09-JAN-18            33 Accenture                 1533964558 Hanna Rocha               Q7k08tT 7B4pk18                                        
+913mK56 11-FEB-16            19 Salesforce                6438289006 Harri Walker              uKCZ482 WQP20b8                                        
+23q64XP 03-JUL-16            31 Adobe                     8641134809 Christian Matthams        uKCZ482 WQP20b8                                        
+D7sN125 24-MAY-16            30 Intuit                    4669110533 Audrey Daniels            uKCZ482 WQP20b8                                        
+j74k6Wr 24-MAY-16            30 Capgemini                  898321525 Lauren Golden             uKCZ482 WQP20b8                                        
+
+16 rows selected.
+
+EXPERIENCE_ACCOMPLISHMENT
+
+EXP_ID  ACCOMPLISHMENT                                                                                                                                
+------- ----------------------------------------------------------------------------------------------------                                          
+p9V5tk0 Developed front ends using react                                                                                                              
+xC24576 Developed software applications using React, JavaScript, HTML5, and CSS                                                                       
+W2Ov752 Collaborated with software engineers to implement user interface designs                                                                      
+7S75uVn Created custom React components and integrated them into existing applications                                                                
+3x0w48T Utilized Redux to manage complex state within a React application                                                                             
+ruZf809 Developed unit tests using Jest and Enzyme                                                                                                    
+ZPj814Y Implemented REST APIs and GraphQL to communicate with back-end services                                                                       
+VdT195V Debugged and resolved complex performance issues                                                                                              
+10EXm4j Optimized React components for maximum performance                                                                                            
+027AwoO Used version control (Git) to manage source code                                                                                              
+ry74oI6 Developed automated tests to ensure the quality of the application                                                                            
+
+EXP_ID  ACCOMPLISHMENT                                                                                                                                
+------- ----------------------------------------------------------------------------------------------------                                          
+W322Iyr Deployed React applications to production servers                                                                                             
+913mK56 Developed front ends using react                                                                                                              
+23q64XP Developed software applications using React, JavaScript, HTML5, and CSS                                                                       
+D7sN125 Collaborated with software engineers to implement user interface designs                                                                      
+j74k6Wr Created custom React components and integrated them into existing applications                                                                
+p9V5tk0 Utilized Redux to manage complex state within a React application                                                                             
+xC24576 Developed unit tests using Jest and Enzyme                                                                                                    
+W2Ov752 Implemented REST APIs and GraphQL to communicate with back-end services                                                                       
+7S75uVn Debugged and resolved complex performance issues                                                                                              
+3x0w48T Optimized React components for maximum performance                                                                                            
+ruZf809 Used version control (Git) to manage source code                                                                                              
+
+EXP_ID  ACCOMPLISHMENT                                                                                                                                
+------- ----------------------------------------------------------------------------------------------------                                          
+ZPj814Y Developed automated tests to ensure the quality of the application                                                                            
+VdT195V Deployed React applications to production servers                                                                                             
+10EXm4j Developed front ends using react                                                                                                              
+027AwoO Developed software applications using React, JavaScript, HTML5, and CSS                                                                       
+ry74oI6 Collaborated with software engineers to implement user interface designs                                                                      
+W322Iyr Created custom React components and integrated them into existing applications                                                                
+913mK56 Utilized Redux to manage complex state within a React application                                                                             
+23q64XP Developed unit tests using Jest and Enzyme                                                                                                    
+D7sN125 Implemented REST APIs and GraphQL to communicate with back-end services                                                                       
+j74k6Wr Debugged and resolved complex performance issues                                                                                              
+p9V5tk0 Optimized React components for maximum performance                                                                                            
+
+EXP_ID  ACCOMPLISHMENT                                                                                                                                
+------- ----------------------------------------------------------------------------------------------------                                          
+xC24576 Used version control (Git) to manage source code                                                                                              
+W2Ov752 Developed automated tests to ensure the quality of the application                                                                            
+7S75uVn Deployed React applications to production servers                                                                                             
+3x0w48T Developed front ends using react                                                                                                              
+ruZf809 Developed software applications using React, JavaScript, HTML5, and CSS                                                                       
+ZPj814Y Collaborated with software engineers to implement user interface designs                                                                      
+VdT195V Created custom React components and integrated them into existing applications                                                                
+10EXm4j Utilized Redux to manage complex state within a React application                                                                             
+027AwoO Developed unit tests using Jest and Enzyme                                                                                                    
+ry74oI6 Implemented REST APIs and GraphQL to communicate with back-end services                                                                       
+W322Iyr Debugged and resolved complex performance issues                                                                                              
+
+EXP_ID  ACCOMPLISHMENT                                                                                                                                
+------- ----------------------------------------------------------------------------------------------------                                          
+913mK56 Optimized React components for maximum performance                                                                                            
+23q64XP Used version control (Git) to manage source code                                                                                              
+D7sN125 Developed automated tests to ensure the quality of the application                                                                            
+j74k6Wr Deployed React applications to production servers                                                                                             
+
+48 rows selected.
+
