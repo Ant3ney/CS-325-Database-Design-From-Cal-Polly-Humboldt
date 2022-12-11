@@ -1,0 +1,48 @@
+SHOWING STUDENT ABRIDGED RESUME
+
+Sat Dec 10                                                                                                                                   page    1
+                                                                   ABRIDGED RESUMEs
+
+F_NAME         L_NAME         EMAIL                      PHONE_NUM ACCOMPLISHMENT                                                                     
+-------------- -------------- ------------------------- ---------- ------------------------------------------------------------                       
+Carlos         Olsen          olsen@gmail.com           8743219463 Practiced implementing security measures                                           
+                                                                   Built a simple navigation bar                                                      
+                                                                   Pair programed with peers                                                          
+                                                                                                                                                      
+Carol          Munoz          munoz@gmail.com           4953036636 Practiced responsive web design                                                    
+                                                                   Learned about security best practices                                              
+                                                                   Built a simple calculator                                                          
+                                                                                                                                                      
+Gertrude       Ponce          ponce@gmail.com           7497092597 Learned about security best practices                                              
+                                                                   Practice communication via in class presentation                                   
+                                                                   Learned about JavaScript fundamentals                                              
+                                                                                                                                                      
+Gracie         Holden         holden@gmail.com          3374090556 Practiced writing MVC code                                                         
+                                                                   Practiced writing semantic markup                                                  
+                                                                   Learned about object-oriented programming                                          
+                                                                                                                                                      
+Iestyn         Victor         victor@gmail.com          7247507846 Built a basic web application                                                      
+                                                                   Learned the basics of HTML and CSS                                                 
+                                                                   Practiced writing AJAX requests                                                    
+                                                                                                                                                      
+Kyra           Roy            roy@gmail.com             9039334625 Built a simple, static website                                                     
+                                                                   Built a basic chatbot                                                              
+                                                                   Learned about the Model-View-Controller (MVC) architecture                         
+                                                                                                                                                      
+Natalie        Fernandez      fernandez@gmail.com        844309282 Practiced writing basic functions                                                  
+                                                                   Built a simple web API                                                             
+                                                                   Researched and implemented new technologies                                        
+                                                                                                                                                      
+Olly           Bennett        bennett@gmail.com         8959688192 Learned about jQuery and AJAX                                                      
+                                                                   Fixed bugs in existing code                                                        
+                                                                                                                                                      
+Samara         Hampton        hampton@gmail.com         7283713204 Built a simple web API                                                             
+                                                                   Practiced writing classes and objects                                              
+                                                                   Learned about Flexbox and Grid layouts                                             
+                                                                                                                                                      
+Tianna         Pollard        pollard@gmail.com         5755783039 Refactored existing code                                                           
+                                                                   Built an interactive form                                                          
+                                                                                                                                                      
+
+28 rows selected.
+
