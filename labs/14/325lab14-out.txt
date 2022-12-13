@@ -1,0 +1,150 @@
+Alfredo Lopez, Anthony Cavuoti
+Lab problem 1
+
+EMPL_LAST_NAME  DAY_OF_WEEK_HIRED                                               
+--------------- ------------------------------------                            
+King            THURSDAY                                                        
+Jones           MONDAY                                                          
+Blake           WEDNESDAY                                                       
+Raimi           SATURDAY                                                        
+Ford            MONDAY                                                          
+Smith           MONDAY                                                          
+Michaels        TUESDAY                                                         
+Ward            FRIDAY                                                          
+Martin          FRIDAY                                                          
+Scott           FRIDAY                                                          
+Turner          SUNDAY                                                          
+
+EMPL_LAST_NAME  DAY_OF_WEEK_HIRED                                               
+--------------- ------------------------------------                            
+Adams           SUNDAY                                                          
+James           SUNDAY                                                          
+Miller          SATURDAY                                                        
+
+14 rows selected.
+
+Lab problem 2
+
+FOUR_LETTER_ABBR                                                                
+----------------                                                                
+KING                                                                            
+JONE                                                                            
+BLAK                                                                            
+RAIM                                                                            
+FORD                                                                            
+SMIT                                                                            
+MICH                                                                            
+WARD                                                                            
+MART                                                                            
+SCOT                                                                            
+TURN                                                                            
+
+FOUR_LETTER_ABBR                                                                
+----------------                                                                
+ADAM                                                                            
+JAME                                                                            
+MILL                                                                            
+
+14 rows selected.
+
+Lab problem 3
+
+EMPL_LAST_NAME  HIREDATE  ELIG_DATE                                             
+--------------- --------- ---------                                             
+King            17-NOV-11 17-MAY-12                                             
+Jones           02-APR-12 02-OCT-12                                             
+Blake           01-MAY-13 01-NOV-13                                             
+Raimi           09-JUN-12 09-DEC-12                                             
+Ford            03-DEC-12 03-JUN-13                                             
+Smith           17-DEC-12 17-JUN-13                                             
+Michaels        20-FEB-18 20-AUG-18                                             
+Ward            22-FEB-19 22-AUG-19                                             
+Martin          28-SEP-18 28-MAR-19                                             
+Scott           09-NOV-18 09-MAY-19                                             
+Turner          08-SEP-19 08-MAR-20                                             
+
+EMPL_LAST_NAME  HIREDATE  ELIG_DATE                                             
+--------------- --------- ---------                                             
+Adams           23-SEP-18 23-MAR-19                                             
+James           03-DEC-17 03-JUN-18                                             
+Miller          23-JAN-16 23-JUL-16                                             
+
+14 rows selected.
+
+lab problem 4
+
+EMPL_LAST_NAME  HIREDATE  NEXT_MOND                                             
+--------------- --------- ---------                                             
+King            17-NOV-11 21-NOV-11                                             
+Jones           02-APR-12 09-APR-12                                             
+Blake           01-MAY-13 06-MAY-13                                             
+Raimi           09-JUN-12 11-JUN-12                                             
+Ford            03-DEC-12 10-DEC-12                                             
+Smith           17-DEC-12 24-DEC-12                                             
+Michaels        20-FEB-18 26-FEB-18                                             
+Ward            22-FEB-19 25-FEB-19                                             
+Martin          28-SEP-18 01-OCT-18                                             
+Scott           09-NOV-18 12-NOV-18                                             
+Turner          08-SEP-19 09-SEP-19                                             
+
+EMPL_LAST_NAME  HIREDATE  NEXT_MOND                                             
+--------------- --------- ---------                                             
+Adams           23-SEP-18 24-SEP-18                                             
+James           03-DEC-17 04-DEC-17                                             
+Miller          23-JAN-16 25-JAN-16                                             
+
+14 rows selected.
+
+
+EMPL_LAST_NAME  HIREDATE  6_MONTHS_AFTER                                        
+--------------- --------- ------------------------------------                  
+King            17-NOV-11 MAY                                                   
+Jones           02-APR-12 OCTOBER                                               
+Blake           01-MAY-13 NOVEMBER                                              
+Raimi           09-JUN-12 DECEMBER                                              
+Ford            03-DEC-12 JUNE                                                  
+Smith           17-DEC-12 JUNE                                                  
+Michaels        20-FEB-18 AUGUST                                                
+Ward            22-FEB-19 AUGUST                                                
+Martin          28-SEP-18 MARCH                                                 
+Scott           09-NOV-18 MAY                                                   
+Turner          08-SEP-19 MARCH                                                 
+
+EMPL_LAST_NAME  HIREDATE  6_MONTHS_AFTER                                        
+--------------- --------- ------------------------------------                  
+Adams           23-SEP-18 MARCH                                                 
+James           03-DEC-17 JUNE                                                  
+Miller          23-JAN-16 JULY                                                  
+
+14 rows selected.
+
+
+JOB_TITLE!                                                                      
+----------                                                                      
+PRESIDENT                                                                       
+MANAGER                                                                         
+MANAGER                                                                         
+MANAGER                                                                         
+ANALYST                                                                         
+CLERK                                                                           
+SALES                                                                           
+SALES                                                                           
+SALES                                                                           
+ANALYST                                                                         
+SALES                                                                           
+
+JOB_TITLE!                                                                      
+----------                                                                      
+CLERK                                                                           
+CLERK                                                                           
+CLERK                                                                           
+
+14 rows selected.
+
+
+LAST_NAME       JOB_TITLE!                                                      
+--------------- -----------                                                     
+jones           MANAGER!                                                        
+blake           MANAGER!                                                        
+raimi           MANAGER!                                                        
+
